@@ -19,4 +19,4 @@ This project aims to understand the evolution of technology and found the empiri
 ![](/static/media/game-of-life-neural-networks.jpg "test")
 ![Crepe](http://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
 
-Test 2
+Test 3
