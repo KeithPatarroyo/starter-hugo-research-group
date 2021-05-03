@@ -1,73 +1,43 @@
 ---
-# Display name
-title: Nelson Bighetti
-
-# Is this the primary user of the site?
-superuser: true
-
-# Role/position
-role: Professor of Artificial Intelligence
-
-# Organizations/Affiliations
-organizations:
-- name: Stanford University
-  url: ""
-
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
+title: Keith Y. Patarroyo
+role: Researcher on Computer Graphics
+avatar_filename: avatar.jpg
+bio: My research interests include Computer Graphics, Foundation of Mathematics
+  and Non-Equilibrium Statistical Mechanics.
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
-
+  - Foundations of Mathematics
+  - Discrete Differential Geometry
+  - Non-EquilibriumThermodynamics
+social:
+  - icon: envelope
+    icon_pack: fas
+    link: mailto:keith.patarroyo@gmail.com
+  - icon: twitter
+    icon_pack: fab
+    link: https://twitter.com/KeithPatarroyo
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.com/citations?user=svnH1cIAAAAJ&hl=en&oi=ao
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/KeithPatarroyo
+organizations:
+  - name: Université de Montréal
+    url: ""
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
-
-# Social/Academic Networking
-# For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
-social:
-- icon: envelope
-  icon_pack: fas
-  link: 'mailto:test@example.org'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
+    - course: MSc in Computer Science
+      institution: Université de Montréal
+      year: 2021
+    - course: BSc in Physics
+      institution: Universidad Nacional de Colombia
+      year: 2018
 email: ""
-
-# Highlight the author in author lists? (true/false)
-highlight_name: false
-
-# Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.
+superuser: true
 user_groups:
-- Researchers
+  - Researchers
+highlight_name: false
 ---
+Keith Patarroyo is a M.Sc. student in Computer Science at the [Computational Design Group](http://www-labs.iro.umontreal.ca/~bernhard/) from the Université de Montréal. He works on the modeling of slender mechanical structures under the supervision of [Bernhard Thomaszewski](http://www-labs.iro.umontreal.ca/~bernhard/bernhard.html). He is  also a member of [LIGUM](http://www.ligum.umontreal.ca/)(Laboratoire d’Informatique Graphique de l’Université de Montréal) and a Research Affiliate of the [Wolfram Physics Project](https://www.wolframphysics.org/).
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+A short description of his training, he was drawn to continuous and discrete (Fluid Dynamics and Kinetic Theory) by [J. Muñoz](http://ciencias.bogota.unal.edu.co/departamentos/departamento-de-fisica/docentes/?tx_unaldirectorio_contactlist%5Bperson%5D=48&tx_unaldirectorio_contactlist%5Baction%5D=show&tx_unaldirectorio_contactlist%5Bcontroller%5D=Person&cHash=f59e499450f9a880d323d63e79545e5c), taught FEM by [J. Galvis](https://sites.google.com/view/jgalvis/home), DG-FEM by [X. Zhang(张翔雄)](http://www.math.purdue.edu/~zhan1966/), Lattice Boltzmann by [M. Mendoza](http://www.ifb.ethz.ch/comphys/people/senior-scientists/miller-mendoza-jimenez.html), Discrete Dif. Geometry by [M. Bessmeltsev(Бессмельцев)](http://www-labs.iro.umontreal.ca/~bmpix/), Complex Systems by [Stephen Wolfram](https://www.stephenwolfram.com/) inter alia.
