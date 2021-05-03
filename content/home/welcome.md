@@ -16,6 +16,6 @@ hero_media: welcome.jpg
 ---
 This project aims to understand the evolution of technology and found the empirical science of meta-engineering.
 
-![](/static/media/welcome.jpg)
+![](/static/media/game-of-life-neural-networks.jpg "test")
 
-Test
+Test 2
