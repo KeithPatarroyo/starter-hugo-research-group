@@ -15,6 +15,6 @@ design:
 hero_media: welcome.jpg
 ---
 <br />
-This project aims to understand the evolution of technology and found the empirical science of meta-engineering.
+This project aims to understand the evolution of technology and find the building blocks of the empirical science of meta-engineering.
 
 ![nn-gol](/media/game-of-life-neural-networks-contrast.jpg)
