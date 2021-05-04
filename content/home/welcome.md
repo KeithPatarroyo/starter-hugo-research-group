@@ -12,9 +12,10 @@ design:
   columns: "1"
   background:
     image: /static/media/welcome.jpg
+    color: 'navy'
 hero_media: welcome.jpg
 ---
 <br />
-This project aims to understand the evolution of technology and find the building blocks of the empirical science of meta-engineering.
+A project to understand the evolution of technology and find the building blocks of empirical meta-engineering.
 
 ![nn-gol](/media/game-of-life-neural-networks-contrast.jpg)
