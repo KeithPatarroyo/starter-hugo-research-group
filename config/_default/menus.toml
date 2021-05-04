@@ -20,12 +20,12 @@
 
 [[main]]
   name = "Events"
-  url = "event"
+  url = ""
   weight = 40
 
 [[main]]
   name = "Publications"
-  url = "publication"
+  url = ""
   weight = 50
 
 [[main]]
