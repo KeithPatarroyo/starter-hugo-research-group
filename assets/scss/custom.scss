@@ -1,0 +1,113 @@
+/* Whole document: */
+
+body {
+  margin-top: 100px !important;
+  color: #172A3A;
+}
+
+.navbar {
+  min-height: 100px !important;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	font-weight: 400;
+  letter-spacing: 0.04em;
+  color: #172A3A;
+}
+
+/* links */
+
+a:active, 
+a:focus, 
+a:hover {
+  color: #004346;
+}
+
+/* nav */
+
+.navbar .navbar-nav .nav-link:hover,
+.navbar .navbar-nav .nav-link:focus {
+	color: #06805E;
+}
+
+.navbar {
+  box-shadow: none;
+  text-transform: uppercase;
+	letter-spacing: .1em;
+	font-size: .9em;
+}
+
+.navbar-brand {
+  text-transform: uppercase;
+  font-weight: 700;
+	letter-spacing: .1em;
+}
+
+/*----NAV LINK HOVER ANIMATION -----*/
+/* from Desiree: https://github.com/dcossyleon/blogdown_desiree/blob/master/assets/scss/custom.scss */
+
+/* stroke */
+
+.navbar-nav a.nav-link,
+.navbar-nav a.nav-link:after,
+.navbar-nav a.nav-link:before {
+  transition: all .5s;
+}
+
+.navbar-nav a.nav-link {
+  position: relative;
+}
+
+.navbar-nav a.nav-link:after {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  margin: auto;
+  width: 0%;
+  content: '.'; /* make invisible, dot beneath links */
+  color: transparent;
+  background: #06805E;
+  height: 2px;
+}
+
+.navbar-nav a.nav-link:hover:after {
+  width: 80%;
+}
+
+/* home page */
+
+.portrait-title h2 {
+  color: #333;
+}
+
+#about .col-12.col-lg-8 {
+  padding-top: 30px !important;
+}
+
+.network-icon li:hover {
+  transform: scale(1.05);
+}
+
+.home-section:first-of-type {
+  padding: 50px 0 50px 0;
+}
+
+.home-section:not(:first-of-type) {
+  padding: 25px 0 50px 0; 
+}
+
+/* this erases the margin-bottom for h1 */
+
+.home-section.wg-pages .section-heading h1 {
+  margin: 0 0 0 0;
+}
+
+/* this is the section subtitle */
+
+.home-section.wg-pages .section-heading p {
+  margin-top: 0;
+  margin-bottom: 1rem;
+  text-transform: uppercase;
+  letter-spacing: .08em;
+}
