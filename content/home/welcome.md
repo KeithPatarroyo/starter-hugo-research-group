@@ -11,11 +11,11 @@ subtitle: ""
 design:
   columns: "1"
   background:
-    image: /static/media/welcome.jpg
+    image: /static/media/welcome-removebg.png
     color: '#f0f7fa'
-hero_media: welcome.jpg
+hero_media: welcome-removebg.png
 ---
 <br />
 A project to understand the evolution of technology and find the building blocks of empirical meta-engineering.
 
-![nn-gol](/media/game-of-life-neural-networks-contrast.jpg)
+![nn-gol](/media/game-of-life-neural-networks-contrast-removebg.png)
