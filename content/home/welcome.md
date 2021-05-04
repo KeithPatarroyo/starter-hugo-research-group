@@ -12,7 +12,7 @@ design:
   columns: "1"
   background:
     image: /static/media/welcome.jpg
-    color: 'navy'
+    color: '#f0f7fa'
 hero_media: welcome.jpg
 ---
 <br />
