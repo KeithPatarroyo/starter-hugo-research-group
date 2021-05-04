@@ -28,8 +28,8 @@ tags:
 featured: false
 
 links:
-- name: ''
-  url: ''
+- name: 'Web Version'
+  url: https://keithpatarroyo.wordpress.com/2019/01/08/a-digression-on-hermite-polynomials/
 url_pdf: https://arxiv.org/pdf/1901.01648.pdf
 url_code: ''
 url_dataset: ''
@@ -42,7 +42,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
+  caption: ''
   focal_point: ""
   preview_only: false
 
