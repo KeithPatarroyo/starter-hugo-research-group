@@ -1,8 +1,8 @@
 ---
-title: "An example preprint / working paper"
+title: "A digression on Hermite polynomials"
 authors:
 - admin
-date: "2019-04-07T00:00:00Z"
+date: "2019-01-07T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -18,10 +18,10 @@ publication_types: ["3"]
 publication: ""
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Orthogonal polynomials are of fundamental importance in many fields of mathematics and science, therefore the study of a particular family is always relevant. In this manuscript, we present a survey of some general results of the Hermite polynomials and show a few of their applications in the connection problem of polynomials, probability theory and the combinatorics of a simple graph. Most of the content presented here is well known, except for a few sections where we add our own work to the subject, nevertheless, the text is meant to be a self-contained personal exposition.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: 
 
 tags:
 - Source Themes
@@ -29,8 +29,8 @@ featured: false
 
 links:
 - name: Custom Link
-  url: http://example.org
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+  url: https://arxiv.org/abs/1901.01648
+url_pdf: https://arxiv.org/pdf/1901.01648.pdf
 url_code: '#'
 url_dataset: '#'
 url_poster: '#'
@@ -62,4 +62,3 @@ projects:
 slides:
 ---
 
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
