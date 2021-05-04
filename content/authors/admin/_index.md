@@ -21,6 +21,9 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/KeithPatarroyo
+  - icon: globe
+    icon_pack: fas
+    link: https://keithpatarroyo.netlify.app/
 organizations:
   - name: Université de Montréal
     url: ""
