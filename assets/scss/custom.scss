@@ -8,10 +8,12 @@ body {
 .navbar {
   min-height: 100px !important;
 }
-
-h1, h2, h3, h4, h5, h6 {
+h1 {
 	font-weight: 300;
   color: #06805e;
+}
+ h2, h3, h4, h5, h6 {
+	font-weight: 300;
 }
 
 /* links */
