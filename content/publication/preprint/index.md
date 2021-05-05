@@ -24,7 +24,7 @@ abstract: Orthogonal polynomials are of fundamental importance in many fields of
 summary: 
 
 tags:
-- external
+- External
 featured: false
 
 links:
