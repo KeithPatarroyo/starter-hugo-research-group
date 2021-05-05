@@ -5,7 +5,7 @@ name = "Classic"
 google_fonts = "Fira+Sans:wght@300;400|Merriweather|Roboto+Mono"
 
 # Font families
-heading_font = "Fira+Sans"
+heading_font = "Fira Sans"
 body_font = "Merriweather"
-nav_font = "Fira+Sans"
+nav_font = "Fira Sans"
 mono_font = "Roboto Mono"
