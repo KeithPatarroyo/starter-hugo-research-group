@@ -31,12 +31,12 @@ links:
 - name: 'Web Version'
   url: https://community.wolfram.com/groups/-/m/t/2164049
 url_pdf: ''
-url_code: 'https://community.wolfram.com/groups?p_auth=Ru7JGi4K&p_p_id=19&p_p_lifecycle=1&p_p_state=exclusive&p_p_mode=view&p_p_col_id=column-1&p_p_col_count=6&_19_struts_action=%2Fmessage_boards%2Fget_message_attachment&_19_messageId=2164049&_19_attachment=LatticeRewritingRules.nb'
+url_code: 'https://github.com/taliesinb/LatticeRewriting' 
 url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: 'https://github.com/taliesinb/LatticeRewriting'
+url_source: 'https://community.wolfram.com/groups?p_auth=Ru7JGi4K&p_p_id=19&p_p_lifecycle=1&p_p_state=exclusive&p_p_mode=view&p_p_col_id=column-1&p_p_col_count=6&_19_struts_action=%2Fmessage_boards%2Fget_message_attachment&_19_messageId=2164049&_19_attachment=LatticeRewritingRules.nb'
 url_video: ''
 
 # Featured image
