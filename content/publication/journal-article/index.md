@@ -1,5 +1,5 @@
 ---
-title: "An example journal article"
+title: "Preserving data moments in density estimation via diffusion using the finite element method"
 authors:
 - admin
 - Juan Galvis
