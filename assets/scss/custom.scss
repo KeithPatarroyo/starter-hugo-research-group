@@ -44,6 +44,14 @@ a:hover {
 	letter-spacing: .1em;
 }
 
+.navbar-brand-collapse {
+  color:#f0f7fa;
+}
+@media (min-width: 992px){
+.navbar-brand-collapse {
+    color:#172a3a;
+  }
+}
 /*----NAV LINK HOVER ANIMATION -----*/
 /* from Desiree: https://github.com/dcossyleon/blogdown_desiree/blob/master/assets/scss/custom.scss */
 
