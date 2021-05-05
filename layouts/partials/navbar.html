@@ -3,13 +3,23 @@
   <div class="container">
 
     <!-- Brand and toggle get grouped for better mobile display -->
+    {{ if not .IsHome }}
       <a class="navbar-brand" href="{{ "/" | relLangURL }}">
         {{- if site.Params.logo -}}
         <img src="{{ printf "/img/%s" site.Params.logo | relURL }}" alt="{{ site.Title }}">
         {{- else -}}
-        {{ if not .IsHome }}{{- site.Title -}}{{- end -}}
+        {{- site.Title -}}
         {{- end -}}
       </a>
+    {{- else -}}
+     <a class="navbar-brand" href="{{ "/" | relLangURL }}">
+        {{- if site.Params.logo -}}
+        <img src="{{ printf "/img/%s" site.Params.logo | relURL }}" alt="{{ site.Title }}">
+        {{- else -}}
+        
+        {{- end -}}
+      </a>
+    {{- end -}}
       {{ if or site.Menus.main .IsTranslated }}
       <button type="button" class="navbar-toggler" data-toggle="collapse"
               data-target="#navbar" aria-controls="navbar" aria-expanded="false" aria-label="{{ i18n "toggle_navigation" }}">
