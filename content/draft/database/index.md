@@ -1,5 +1,5 @@
 ---
-title: Database of analysed Game of Life Patterns
+title: Database of Analysed Game of Life Patterns
 date: 2021-05-07
 active: false
 ---
