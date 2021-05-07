@@ -10,4 +10,4 @@ This is a test of interactive content
 
 This is a test of wolfram interactive content:
 
-<iframe src="https://www.wolframcloud.com/obj/a7e1cc4d-57aa-4ea6-8613-6e0fbec53958?_embed=iframe" width="600" height="800"></iframe>
+<iframe src="https://www.wolframcloud.com/obj/3b2f9e26-3b89-410e-8253-3dddbb3ca4ef?_embed=iframe" width="400" height="300"></iframe>
