@@ -11,4 +11,4 @@ In this document we are recording the Game of Life patterns that have already be
 3. Block -> Axiom
 4. Queen Bee -> Axiom
 
-*ToDo: A more descriptive database with patterns and its technological components: Principle and Architecture.*
+*ToDo: A more descriptive database with patterns and its technological components: Principle, Architecture, Phenomenon and Subtechnologies.*
