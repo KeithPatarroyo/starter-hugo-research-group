@@ -6,7 +6,7 @@ widget: hero
 widget_id: Recent-Post
 headless: true
 weight: 10
-title: Project Galápagos
+title: Galápagos Project
 subtitle: ""
 design:
   columns: "1"
