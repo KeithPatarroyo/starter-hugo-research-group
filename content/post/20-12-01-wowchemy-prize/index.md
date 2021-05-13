@@ -12,4 +12,5 @@ This project aims to have the following deliverables:
 - A main scientific article
 - An interactive version of the article on this website
 - A database of GoL patterns and their subparts
-- An interactive way to look at the GoL database on this website   
+- An interactive way to look at the GoL database on this website  
+- Two introductory videos explaining the main ideas (Economics, Technology) 
