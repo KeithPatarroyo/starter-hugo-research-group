@@ -14,5 +14,5 @@ These ideas have come out of the main project
 **Video Ideas:**
 - Can we teach mathematics like music, like programming. Slice the Mathematical Universe with diferent lenses(Set Theory, HoTT, Category Theory,...)
 - Has all music been written ? A. NO
-- There is so much hidden in plain sight(Einstein didn't hafe wheels on his bag)
+- There is so much hidden in plain sight(Einstein didn't have wheels on his bag)
 - An idea when I was 19 years old: binary operators.
