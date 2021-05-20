@@ -58,4 +58,11 @@ o5bobobobo5bo3bo$5ob5obo5b5o3bo3b5ob5o2bobo2b5obo3bo!
 #C [[ T 1050 DEPTH 0 ANGLE 0 AUTOFIT "#T" ]]
 #C [[ T 1100 X 0 Y 0 ZOOM 0.25 THEME CUSTOM ]]</code></div></div><canvas width="200" height="300" style="margin-left:1px;"><noscript><div style="border-width:1px;border-color:#888888;border-style:solid;padding:8px;">Please enable Javascript to view this LifeViewer.</div></noscript></canvas></div></div>
 
+This is a third test:
+
+<tr>
+<td colspan="2" class="infobox_img"><table class="img_border" cellpadding="0"><tbody><tr><td><div class="rle"><div class="codebox"><div style="display:none;"><code>bob$2bo$3o!
+#C [[ THUMBSIZE 2 THEME 6 GRID GRIDMAJOR 0 SUPPRESS THUMBLAUNCH ]]
+#C [[ AUTOSTART ]]
+#C [[ TRACKLOOP 4 1/4 1/4 THUMBSIZE 3 GPS 4 ]] </code></div></div><canvas width="200" height="300" style="margin-left:1px;"><noscript> <a href="/wiki/File:Glider.png" class="image" title="Glider image"><img alt="Glider image" src="/w/images/7/79/Glider.png" decoding="async" width="81" height="81" /></a> </noscript></canvas></div></td></tr></tbody></table></td></tr>
 
