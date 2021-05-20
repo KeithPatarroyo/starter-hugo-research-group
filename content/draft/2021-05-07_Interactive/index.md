@@ -34,5 +34,28 @@ This is a test:
 
 This is a second test:
 
+<p>
+<script type="text/javascript" src="https://www.conwaylife.com/js/lv-plugin.js"></script></p>
+
+<div style="align: center;"><div class="rle"><div class="codebox"><div style="display:none;"><code>x=59, y = 7, rule = B3/S23
+o5b5ob5ob5obo3bob5ob5obobobob5ob4o$o7bo3bo5bo5bo3bo3bo3bo5bobobobo5bo
+3bo$o7bo3bo5bo5bo3bo3bo3bo5bobobobo5bo3bo$o7bo3b3o3b3o3bo3bo3bo3b3o3bo
+bobob3o3b4o$o7bo3bo5bo5bo3bo3bo3bo5bobobobo5bo3bo$o7bo3bo5bo6bobo4bo3b
+o5bobobobo5bo3bo$5ob5obo5b5o3bo3b5ob5o2bobo2b5obo3bo!
+#C [[ IGNOREEXCLUSIVE ]]
+#C [[ COLOUR DEAD 0 0 0 COLOUR ALIVE 0 0 0 ]]
+#C [[ LOOP 1101 STARS NOSTEPBACK ]]
+#C [[ AUTOSTART X -90 Y 60 LAYERS 6 ZOOM 4 DEPTH 3 ]]
+#C [[ PAUSE 3 X 90 Y -60 ANGLE 20 THEME 0 ]]
+#C [[ PAUSE 1.5 X 90 Y 60 ANGLE 340 ZOOM 6 ]]
+#C [[ PAUSE 1.5 X 0 Y 0 ANGLE 0 THEME 3 ZOOM 4 ]]
+#C [[ PAUSE 1 X 0 DEPTH 0.2 ZOOM 6 THEME 4 ]]
+#C [[ T 1 THEME 7 ]]
+#C [[ T 400 ZOOM 5 X 5 Y -10 THEME 2 ]]
+#C [[ T 450 DEPTH 5 ]]
+#C [[ T 560 X -155 Y 127 DEPTH 0.5 ]]
+#C [[ T 950 X -242 Y 214 ANGLE 20 ]]
+#C [[ T 1050 DEPTH 0 ANGLE 0 AUTOFIT "#T" ]]
+#C [[ T 1100 X 0 Y 0 ZOOM 0.25 THEME CUSTOM ]]</code></div></div><canvas width="200" height="300" style="margin-left:1px;"><noscript><div style="border-width:1px;border-color:#888888;border-style:solid;padding:8px;">Please enable Javascript to view this LifeViewer.</div></noscript></canvas></div></div>
 
 
