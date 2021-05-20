@@ -63,7 +63,7 @@ This is a third test:
 <div class="rle"><div class="codebox"><div style="display:none; position: relative; z-index: 1031;"><code>bob$2bo$3o!
 #C [[ THUMBSIZE 2 THEME 6 GRID GRIDMAJOR 0 SUPPRESS THUMBLAUNCH ]]
 #C [[ AUTOSTART ]]
-#C [[ TRACKLOOP 4 1/4 1/4 THUMBSIZE 3 GPS 4 ]] </code></div></div><canvas width="200" height="300" style="margin-left:1px; position: relative; z-index: 1031;"><noscript> <a href="https://www.conwaylife.com/wiki/File:Glider.png" class="image" title="Glider image"><img alt="Glider image" src="https://www.conwaylife.com/w/images/7/79/Glider.png" decoding="async" width="81" height="81" /></a> </noscript></canvas></div>
+#C [[ TRACKLOOP 4 1/4 1/4 THUMBSIZE 3 GPS 3 ]] </code></div></div><canvas width="200" height="300" style="margin-left:1px; position: relative; z-index: 1031;"><noscript> <a href="https://www.conwaylife.com/wiki/File:Glider.png" class="image" title="Glider image"><img alt="Glider image" src="https://www.conwaylife.com/w/images/7/79/Glider.png" decoding="async" width="81" height="81" /></a> </noscript></canvas></div>
 
 This is a fourth test
 
