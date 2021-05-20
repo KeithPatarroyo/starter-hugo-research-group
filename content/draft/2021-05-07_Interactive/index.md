@@ -84,3 +84,8 @@ o3b3o$3o2bo$bo!
 			<br>
 		</div>
 
+
+This is a fifth test:
+
+<div class="rle"><div class="codebox"><div style="display:none; position: relative; z-index: 1031;"><code>bob$2bo$3o!
+</code></div></div><canvas width="200" height="300" style="margin-left:1px; position: relative; z-index: 1031;"><noscript> <a href="https://www.conwaylife.com/wiki/File:Glider.png" class="image" title="Glider image"><img alt="Glider image" src="https://www.conwaylife.com/w/images/7/79/Glider.png" decoding="async" width="81" height="81" /></a> </noscript></canvas></div>
