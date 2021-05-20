@@ -66,3 +66,22 @@ This is a third test:
 #C [[ AUTOSTART ]]
 #C [[ TRACKLOOP 4 1/4 1/4 THUMBSIZE 3 GPS 4 ]] </code></div></div><canvas width="200" height="300" style="margin-left:1px;"><noscript> <a href="https://www.conwaylife.com/wiki/File:Glider.png" class="image" title="Glider image"><img alt="Glider image" src="https://www.conwaylife.com/w/images/7/79/Glider.png" decoding="async" width="81" height="81" /></a> </noscript></canvas></div></td></tr></tbody></table></td></tr>
 
+This is a fourth test
+
+<div class="viewer">
+			<canvas width="560" height="560"></canvas> 
+			<br>
+			<label for="rle">Type or paste RLE data into the box below and click on the View button.</label>
+			<br>
+			<textarea id="rle" rows=5 cols=89 style="display:inline-block; vertical-align:top">
+# You can save the pattern into this box with Settings/Pattern/Save or Ctrl-S.
+x = 7, y = 3, rule = B3/S23
+o3b3o$3o2bo$bo!
+</textarea>
+			<button type="button" onclick="updateMe(this); return false;" style="font-size:24px; display:inline-block; vertical-align:top">View</button>
+			<form action="https://conwaylife.com/wiki/LifeViewer" method="get" target="_blank" style="display:inline-block; float:right;">
+				<input type="submit" value="Wiki" style="font-size:24px;">
+			</form>
+			<br>
+		</div>
+
