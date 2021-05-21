@@ -5,7 +5,7 @@ active: false
 ---
 
 
-**Patter Type**: Logic Gate
+**Pattern Type**: Logic Gate
 
 **Discovery Year**: 2013
 
