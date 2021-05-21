@@ -5,13 +5,13 @@ active: false
 ---
 
 
-Patter Type: Strict Still Life
+**Pattern Type**: Strict Still Life
 
-Discovery Year: 1970
+**Discovery Year**: 1970
 
-Compositon: Axiom
+**Compositon**: Axiom
 
-Source: [Wiki](https://www.conwaylife.com/wiki/Block)
+**Source**: [Wiki](https://www.conwaylife.com/wiki/Block)
 <!--more-->
 
 <p>
