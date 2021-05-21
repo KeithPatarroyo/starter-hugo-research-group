@@ -18,30 +18,16 @@ active: false
 **Source**: [Nicholas Carlini](https://nicholas.carlini.com/writing/2020/digital-logic-game-of-life.html)
 <!--more-->
 
+<style type="text/css">
+.table  {display:contents;}
+</style>
+
 <center>
-    <table>
-        <tr>
-            <td>Foo1</td> <td>Foo2</td>
-        </tr>
-    </table>
+|   A   | NOT A |
+|:-----:|:-----:|
+| False |  True |
 </center>
 
-<table >
-<thead>
-  <tr>
-    <th class="tg-c3ow">A</th>
-    <th class="tg-c3ow">NOT A</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-c3ow">False</td>
-    <td class="tg-c3ow">True</td>
-  </tr>
-</tbody>
-</table>
-
-This is a test for the css
  
 <p>
 <script type="text/javascript" src="https://www.conwaylife.com/js/lv-plugin.js"></script></p>
@@ -69,13 +55,11 @@ bobobo$18b5o$19b3o3b2o$20bo3bobo$26bo7$21b3o$20b2ob2o$20b2ob2o$20b5o$
 </code></div></div><canvas width="760" height="560" style="margin-left:1px; position: relative; z-index: 1031;"><noscript> <a href="https://www.conwaylife.com/wiki/File:Glider.png" class="image" title="Glider image"><img alt="Glider image" src="https://www.conwaylife.com/w/images/7/79/Glider.png" decoding="async" width="81" height="81" /></a> </noscript></canvas></div>
 
 
-  
-| Disk 0 | Disk 1 | Disk 2 | Disk 3 |
-|:------:|:------:|:------:|:-------:|
-|   A1   |   A2   |   A3   | Ap(1-3) |
-|   A4   |   A5   |   A6   | Ap(4-6) |
-|   B1   |   B2   |   B3   | Bp(1-3) |
-|   B4   |   B5   |   B6   | Bp(4-6) |
+<center>
+|   A   | NOT A |
+|:-----:|:-----:|
+| True |  False |
+</center>
 
   
 <p>
