@@ -22,13 +22,11 @@ active: false
   var canvasLifeViewer = canvas.parentNode;
   canvas.setAttribute("width", window.getComputedStyle(canvasLifeViewer).width);
   canvas.setAttribute("height", window.getComputedStyle(canvasLifeViewer).height);
-
   var max = 5;
   var rectWidth = 30;
   var rectHeight = 30;
   canvas.setAttribute("width", (max) * rectWidth + "px");
   canvas.setAttribute("height", (max) * rectHeight + "px");
-
   for (i = 0; i < max; i++) {
     ctx.fillRect(i * rectWidth, i * rectHeight, rectWidth, rectHeight);
   }
