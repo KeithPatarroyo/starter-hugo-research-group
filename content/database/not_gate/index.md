@@ -20,6 +20,8 @@ active: false
 
 <style type="text/css">
 table.center  {display:contents;}
+table.center td{border-color:black;border-style:solid;}
+table.center th{border-color:black;border-style:solid;}
 </style>
 
 <center>
