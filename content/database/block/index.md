@@ -9,6 +9,8 @@ Patter Type: Strict Still Life
 
 Discovery Year: 1970
 
+Compositon: Axiom
+
 Source: [Wiki](https://www.conwaylife.com/wiki/Block)
 <!--more-->
 
