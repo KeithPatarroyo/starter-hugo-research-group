@@ -20,8 +20,8 @@ active: false
 
 <style type="text/css">
 table.center  {display:contents;}
-table.center td{border-color: #ddd;border-style:solid;border-width:1px;border-top: 1px solid #ddd;}
-table.center th{border-color: #ddd;border-style:solid;border-width:1px;}
+table.center td{border-color: #ddd;border-style:solid;border-width:1px;border-top: 2px solid #ddd;}
+table.center th{border-color: #ddd;border-style:solid;border-width:1px;border-top: 1px solid #ddd;}
 table.center .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
 </style>
 
