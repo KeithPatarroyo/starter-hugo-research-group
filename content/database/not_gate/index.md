@@ -22,13 +22,16 @@ active: false
 .table  {border-top: 1px solid #ccc; border-bottom: 1px solid #ccc; padding: 0.6rem;}
 </style>
 
-{.table}
+<div class="table">
+  
 | Disk 0 | Disk 1 | Disk 2 | Disk 3 |
 |:------:|:------:|:------:|:-------:|
 |   A1   |   A2   |   A3   | Ap(1-3) |
 |   A4   |   A5   |   A6   | Ap(4-6) |
 |   B1   |   B2   |   B3   | Bp(1-3) |
 |   B4   |   B5   |   B6   | Bp(4-6) |
+  
+</div>
 
 This is a test for the css
  
@@ -58,7 +61,8 @@ bobobo$18b5o$19b3o3b2o$20bo3bobo$26bo7$21b3o$20b2ob2o$20b2ob2o$20b5o$
 </code></div></div><canvas width="760" height="560" style="margin-left:1px; position: relative; z-index: 1031;"><noscript> <a href="https://www.conwaylife.com/wiki/File:Glider.png" class="image" title="Glider image"><img alt="Glider image" src="https://www.conwaylife.com/w/images/7/79/Glider.png" decoding="async" width="81" height="81" /></a> </noscript></canvas></div>
 
 
-{.table}
+<div class="table">
+  
 | Disk 0 | Disk 1 | Disk 2 | Disk 3 |
 |:------:|:------:|:------:|:-------:|
 |   A1   |   A2   |   A3   | Ap(1-3) |
@@ -66,7 +70,8 @@ bobobo$18b5o$19b3o3b2o$20bo3bobo$26bo7$21b3o$20b2ob2o$20b2ob2o$20b5o$
 |   B1   |   B2   |   B3   | Bp(1-3) |
 |   B4   |   B5   |   B6   | Bp(4-6) |
 
-
+</div>
+  
 <p>
 <script type="text/javascript" src="https://www.conwaylife.com/js/lv-plugin.js"></script></p>
 
