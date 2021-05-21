@@ -19,19 +19,24 @@ active: false
 <!--more-->
 
 <style type="text/css">
-.table  {border-top: 1px solid #ccc; border-bottom: 1px solid #ccc; padding: 0.6rem; margin: 0px auto;}
+table.center  {    margin-left:auto; 
+    margin-right:auto;}
 </style>
 
-<div class="table">
-  
-| Disk 0 | Disk 1 | Disk 2 | Disk 3 |
-|:------:|:------:|:------:|:-------:|
-|   A1   |   A2   |   A3   | Ap(1-3) |
-|   A4   |   A5   |   A6   | Ap(4-6) |
-|   B1   |   B2   |   B3   | Bp(1-3) |
-|   B4   |   B5   |   B6   | Bp(4-6) |
-  
-</div>
+<table class="center">
+<thead>
+  <tr>
+    <th class="tg-c3ow">A</th>
+    <th class="tg-c3ow">NOT A</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-c3ow">False</td>
+    <td class="tg-c3ow">True</td>
+  </tr>
+</tbody>
+</table>
 
 This is a test for the css
  
