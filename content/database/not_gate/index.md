@@ -5,28 +5,20 @@ active: false
 ---
 
 
-Patter Type: Logic Gate
+**Patter Type**: Logic Gate
 
-Discovery Year: 2013
+**Discovery Year**: 2013
 
-Composition: [Gosper Glider Gun](https://galapagos.netlify.app/database/gosper_glider_gun/)(+0t) & [Gosper Glider Gun](https://galapagos.netlify.app/database/gosper_glider_gun/)(+11t)  & [Eater 1](https://galapagos.netlify.app/database/eater_1/) & [P60 Glider Gun(alternative)](https://galapagos.netlify.app/database/p60_glider_gun/)(+3t)
+**Composition**: [Gosper Glider Gun](https://galapagos.netlify.app/database/gosper_glider_gun/)(+0t) & [Gosper Glider Gun](https://galapagos.netlify.app/database/gosper_glider_gun/)(+11t)  & [Eater 1](https://galapagos.netlify.app/database/eater_1/) & [P60 Glider Gun(alternative)](https://galapagos.netlify.app/database/p60_glider_gun/)(+3t)
 
-Input: Glider P60 Stream(+0t)
+**Input**: Glider P60 Stream(+0t)
 
-Output: Glider P60 Stream
+**Output**: Glider P60 Stream
 
-Source: [Nicholas Carlini](https://nicholas.carlini.com/writing/2020/digital-logic-game-of-life.html)
+**Source**: [Nicholas Carlini](https://nicholas.carlini.com/writing/2020/digital-logic-game-of-life.html)
 <!--more-->
 
 <div align="center">
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
-</style>
 <table class="tg">
 <thead>
   <tr>
@@ -69,14 +61,6 @@ bobobo$18b5o$19b3o3b2o$20bo3bobo$26bo7$21b3o$20b2ob2o$20b2ob2o$20b5o$
 </code></div></div><canvas width="760" height="560" style="margin-left:1px; position: relative; z-index: 1031;"><noscript> <a href="https://www.conwaylife.com/wiki/File:Glider.png" class="image" title="Glider image"><img alt="Glider image" src="https://www.conwaylife.com/w/images/7/79/Glider.png" decoding="async" width="81" height="81" /></a> </noscript></canvas></div>
 
 <div align="center">
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
-</style>
 <table class="tg">
 <thead>
   <tr>
