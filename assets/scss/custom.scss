@@ -121,7 +121,7 @@ a:hover {
   letter-spacing: .08em;
 }
 
-/* --- Dynamic Size Embedded Videos --- */
+/* --- Dynamic Size Conway Game of life Javascript --- */
 
 .canvasLifeViewer {
 	height: 0px;
@@ -131,7 +131,6 @@ a:hover {
 }
 .canvasLifeViewer canvas {
 	width: 100%;
-	height: 100%;
 	position: absolute;
 }
 
