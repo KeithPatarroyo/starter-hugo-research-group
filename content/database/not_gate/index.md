@@ -18,9 +18,11 @@ Output: Glider P60 Stream
 Source: [Wiki](https://nicholas.carlini.com/writing/2020/digital-logic-game-of-life.html)
 <!--more-->
 
+<center>
 | A     | NOT A |
 |-------|-------|
 | False | True  |
+</center>
 
 <p>
 <script type="text/javascript" src="https://www.conwaylife.com/js/lv-plugin.js"></script></p>
@@ -44,12 +46,14 @@ o$30bobo4b2o$36bobo$30b3o5$33bo$32bobo$31bo3bo94b2o$32b3o94bobo$30b2o
 $20bo10b2o$19bobo7bo2bo$19bobo7b4o$20bo11bo$31bo$31b3o$17b2o3b2o$17bo
 bobobo$18b5o$19b3o3b2o$20bo3bobo$26bo7$21b3o$20b2ob2o$20b2ob2o$20b5o$
 19b2o3b2o5$23b2o4$21b2o$21b2o!
-#C [[ THEME 6 GRID GRIDMAJOR 0 ZOOM 3.0 ]]
+#C [[ THEME 6 GRID GRIDMAJOR 0 ZOOM 1.6 ]]
 </code></div></div><canvas width="760" height="560" style="margin-left:1px; position: relative; z-index: 1031;"><noscript> <a href="https://www.conwaylife.com/wiki/File:Glider.png" class="image" title="Glider image"><img alt="Glider image" src="https://www.conwaylife.com/w/images/7/79/Glider.png" decoding="async" width="81" height="81" /></a> </noscript></canvas></div>
 
+<center>
 | A     | NOT A |
 |-------|-------|
 | True | False  |
+</center>
 
 <p>
 <script type="text/javascript" src="https://www.conwaylife.com/js/lv-plugin.js"></script></p>
@@ -76,7 +80,7 @@ $78bo102b2o$78bo2bo98bo$78bo3$77b2obob2o2$77bo5bo2$78b2ob2o$80bo4$165b
 o$73bo$74bobob2o$75bo$78b2o4$67bo7b2o$66b3o7b2o$65b5o5bo$64b2o3b2o3$69b
 2o$71bo$68bo$68bo2bo$67b2ob2o$68b2o3$66b2o3b2o$66b2o3b2o$67b5o$68bobo
 2$68b3o6$68b2o$68b2o!
-#C [[ THEME 6 GRID GRIDMAJOR 0 ZOOM 3.0 ]]
+#C [[ THEME 6 GRID GRIDMAJOR 0 ZOOM 1.6 ]]
 </code></div></div><canvas width="760" height="560" style="margin-left:1px; position: relative; z-index: 1031;"><noscript> <a href="https://www.conwaylife.com/wiki/File:Glider.png" class="image" title="Glider image"><img alt="Glider image" src="https://www.conwaylife.com/w/images/7/79/Glider.png" decoding="async" width="81" height="81" /></a> </noscript></canvas></div>
 
 
