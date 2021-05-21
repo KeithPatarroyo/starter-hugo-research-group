@@ -9,6 +9,8 @@ Patter Type: 	Methuselah
 
 Discovery Year: 1970
 
+Composition: Axiom
+
 Source: [Wiki](https://www.conwaylife.com/wiki/Queen_bee)
 <!--more-->
 
