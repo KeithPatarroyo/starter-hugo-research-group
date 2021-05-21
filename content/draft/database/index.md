@@ -13,5 +13,11 @@ In this document we are recording the Game of Life patterns that have already be
 5. [Gosper Glider Gun/ P30 Glider Gun](https://galapagos.netlify.app/database/gosper_glider_gun) 
 6. [P60 Glider Gun](https://galapagos.netlify.app/database/p60_glider_gun) 
 7. [NOT Gate](https://galapagos.netlify.app/database/not_gate)
+8. AND Gate
+9. OR Gate
+10. Crossover
+11. Rotator
+12. Duplicator
+13. Four Bit Adder
 
 *ToDo: A more descriptive database with patterns and its technological components: Principle, Architecture, Phenomenon and Subtechnologies.*
