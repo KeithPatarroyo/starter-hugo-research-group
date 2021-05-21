@@ -19,7 +19,7 @@ active: false
 <!--more-->
 
 <style type="text/css">
-.table  {border-top: 1px solid #ccc; border-bottom: 1px solid #ccc; padding: 0.6rem;}
+.table  {border-top: 1px solid #ccc; border-bottom: 1px solid #ccc; padding: 0.6rem; margin-left:auto;margin-right:auto;}
 </style>
 
 <div class="table">
