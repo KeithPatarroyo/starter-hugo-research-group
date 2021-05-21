@@ -18,7 +18,9 @@ active: false
 **Source**: [Nicholas Carlini](https://nicholas.carlini.com/writing/2020/digital-logic-game-of-life.html)
 <!--more-->
 
-<div align="center">
+<style type="text/css">
+.tg  {  margin-left: auto; margin-right: auto;}
+</style>
 <table class="tg">
 <thead>
   <tr>
