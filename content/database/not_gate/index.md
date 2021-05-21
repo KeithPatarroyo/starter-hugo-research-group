@@ -23,9 +23,20 @@ active: false
 </style>
 
 <center>
-|   A   | NOT A |
-|:-----:|:-----:|
-| False |  True |
+<table>
+<thead>
+  <tr>
+    <th class="tg-c3ow">A</th>
+    <th class="tg-c3ow">NOT A</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-c3ow">False</td>
+    <td class="tg-c3ow">True</td>
+  </tr>
+</tbody>
+</table>
 </center>
 
  
@@ -56,9 +67,20 @@ bobobo$18b5o$19b3o3b2o$20bo3bobo$26bo7$21b3o$20b2ob2o$20b2ob2o$20b5o$
 
 
 <center>
-|   A   | NOT A |
-|:-----:|:-----:|
-| True |  False |
+<table>
+<thead>
+  <tr>
+    <th class="tg-c3ow">A</th>
+    <th class="tg-c3ow">NOT A</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-c3ow">True</td>
+    <td class="tg-c3ow">False</td>
+  </tr>
+</tbody>
+</table>
 </center>
 
   
