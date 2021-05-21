@@ -29,7 +29,7 @@ Alternative Design:
 
 Composition: [Gosper Glider Gun](https://galapagos.netlify.app/database/gosper_glider_gun/) & [Gosper Glider Gun](https://galapagos.netlify.app/database/gosper_glider_gun/)(+11t) 
 
-Source: [Wiki](https://nicholas.carlini.com/writing/2020/digital-logic-game-of-life.html)
+Source: [Nicholas Carlini](https://nicholas.carlini.com/writing/2020/digital-logic-game-of-life.html)
 
 <div class="rle"><div class="codebox"><div style="display:none; position: relative; z-index: 1031;"><code>43b2o$43b2o7$43bo$42b3o$41b5o$40bobobobo$40b2o3b2o3$43bo$42bobo$25b2o
 15bob2o$24bobo16b3o$9bobo11bo6b2o2b2o7bo2bo$9bo2bo10bo2bo2bo2bob2o8b3o
