@@ -5,13 +5,13 @@ active: false
 ---
 
 
-Patter Type: Eater
+**Pattern Type**: Eater
 
-Discovery Year: 1971
+**Discovery Year**: 1971
 
-Compositon: Axiom
+**Compositon**: Axiom
 
-Source: [Wiki](https://www.conwaylife.com/wiki/Eater_1)
+**Source**: [Wiki](https://www.conwaylife.com/wiki/Eater_1)
 <!--more-->
 
 <p>
