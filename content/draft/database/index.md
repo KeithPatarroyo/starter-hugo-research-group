@@ -28,12 +28,17 @@ In this document we are recording the Game of Life patterns that have already be
 20. Rotator(LWSS)
 21. Duplicator
 22. Duplicator(LWSS)
-23. Four Bit Adder
-24. Latch
-25. Latch(LWSS)
-26. Flip-Flop
-27. Flip-Flop(LWSS)
-28. 7 Segment Display
-29. 7 Segment Display(LWSS)
+23. Adaptator
+24. Four Bit Adder
+25. Arithmetic and logic unit (ALU)
+26. Latch
+27. Latch(LWSS)
+28. Flip-Flop
+29. Flip-Flop(LWSS)
+30. Memory Unit
+31. 7 Segment Display
+32. 7 Segment Display(LWSS)
+33. Program(Static Memory)
+34. 8-Bit Computer
 
 *ToDo: A more descriptive database with patterns and its technological components: Principle, Architecture, Phenomenon and Subtechnologies.*
