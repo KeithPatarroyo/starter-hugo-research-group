@@ -18,12 +18,31 @@ Output: Glider P60 Stream
 Source: [Nicholas Carlini](https://nicholas.carlini.com/writing/2020/digital-logic-game-of-life.html)
 <!--more-->
 
-<p style="text-align: center;">
-| A     | NOT A |
-|-------|-------|
-| False | True  |
-</p>
-
+<div align="center">
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-0pky">A</th>
+    <th class="tg-0pky">NOT A</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0pky">False</td>
+    <td class="tg-0pky">True</td>
+  </tr>
+</tbody>
+</table>
+</div>
+  
 <p>
 <script type="text/javascript" src="https://www.conwaylife.com/js/lv-plugin.js"></script></p>
 
@@ -49,11 +68,30 @@ bobobo$18b5o$19b3o3b2o$20bo3bobo$26bo7$21b3o$20b2ob2o$20b2ob2o$20b5o$
 #C [[ THEME 6 GRID GRIDMAJOR 0 ZOOM 1.6 ]]
 </code></div></div><canvas width="760" height="560" style="margin-left:1px; position: relative; z-index: 1031;"><noscript> <a href="https://www.conwaylife.com/wiki/File:Glider.png" class="image" title="Glider image"><img alt="Glider image" src="https://www.conwaylife.com/w/images/7/79/Glider.png" decoding="async" width="81" height="81" /></a> </noscript></canvas></div>
 
-<p style="text-align: center;">
-| A     | NOT A |
-|-------|-------|
-| True | False  |
-</p>
+<div align="center">
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-0pky">A</th>
+    <th class="tg-0pky">NOT A</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0pky">True</td>
+    <td class="tg-0pky">False</td>
+  </tr>
+</tbody>
+</table>
+</div>
 
 <p>
 <script type="text/javascript" src="https://www.conwaylife.com/js/lv-plugin.js"></script></p>
