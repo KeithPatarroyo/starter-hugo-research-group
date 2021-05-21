@@ -6,9 +6,9 @@ active: false
 
 In this document we are recording the Game of Life patterns that have already been clasified:
 
-1. Gosper Glider Gun -> Queen Bee Shuttle & Queen Bee Shuttle(+5t)
-2. Queen Bee Shuttle -> Queen Bee & x2 Blocks
-3. [Block](https://galapagos.netlify.app/database/block) -> Axiom
-4. [Queen Bee](https://galapagos.netlify.app/database/queen_bee) -> Axiom
+1. [Block](https://galapagos.netlify.app/database/block) 
+2. [Queen Bee](https://galapagos.netlify.app/database/queen_bee) 
+3. [Queen Bee Shuttle](https://galapagos.netlify.app/database/queen_bee_shuttle)  
+4. [Gosper Glider Gun](https://galapagos.netlify.app/database/gosper_glider_gun)  
 
 *ToDo: A more descriptive database with patterns and its technological components: Principle, Architecture, Phenomenon and Subtechnologies.*
