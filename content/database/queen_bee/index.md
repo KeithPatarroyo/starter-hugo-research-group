@@ -5,13 +5,13 @@ active: false
 ---
 
 
-Patter Type: 	Methuselah
+**Pattern Type**: 	Methuselah
 
-Discovery Year: 1970
+**Discovery Year**: 1970
 
-Composition: Axiom
+**Composition**: Axiom
 
-Source: [Wiki](https://www.conwaylife.com/wiki/Queen_bee)
+**Source**: [Wiki](https://www.conwaylife.com/wiki/Queen_bee)
 <!--more-->
 
 <p>
