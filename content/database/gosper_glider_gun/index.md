@@ -5,13 +5,13 @@ active: false
 ---
 
 
-Patter Type: Gun
+**Pattern Type**: Gun
 
-Discovery Year: 1970
+**Discovery Year**: 1970
 
-Composition: [Queen Bee Shuttle](https://galapagos.netlify.app/database/queen_bee_shuttle/) & [Queen Bee Shuttle](https://galapagos.netlify.app/database/queen_bee_shuttle/)(+5t)
+**Composition**: [Queen Bee Shuttle](https://galapagos.netlify.app/database/queen_bee_shuttle/) & [Queen Bee Shuttle](https://galapagos.netlify.app/database/queen_bee_shuttle/)(+5t)
 
-Source: [Wiki](https://www.conwaylife.com/wiki/Gosper_glider_gun)
+**Source**: [Wiki](https://www.conwaylife.com/wiki/Gosper_glider_gun)
 <!--more-->
 
 <p>
