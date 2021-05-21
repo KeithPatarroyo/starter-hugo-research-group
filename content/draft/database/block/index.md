@@ -5,8 +5,14 @@ active: false
 ---
 
 Patter Type: Strict Still Life
+
 Discovery Year: 1970
+
 Source: [Wiki](https://www.conwaylife.com/wiki/Block)
+<!--more-->
+
+<p>
+<script type="text/javascript" src="https://www.conwaylife.com/js/lv-plugin.js"></script></p>
 
 <div class="rle"><div class="codebox"><div style="display:none; position: relative; z-index: 1031;"><code>bob$2bo$3o!
 #C [[ THEME 6 GRID GRIDMAJOR 0 ZOOM 8.0 ]]
