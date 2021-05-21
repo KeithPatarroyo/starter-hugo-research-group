@@ -6,7 +6,7 @@ function init() {
   canvas.setAttribute("height", window.getComputedStyle(wrapper).height);
 
   var max = 5;
-  var rectWidth = 30;
+  var rectWidth = 300;
   var rectHeight = 30;
   canvas.setAttribute("width", (max) * rectWidth + "px");
   canvas.setAttribute("height", (max) * rectHeight + "px");
