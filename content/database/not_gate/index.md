@@ -19,11 +19,11 @@ active: false
 <!--more-->
 
 <style type="text/css">
-.table  {display:contents;}
+table.center  {display:contents;}
 </style>
 
 <center>
-<table>
+<table class="center">
 <thead>
   <tr>
     <th class="tg-c3ow">A</th>
@@ -39,6 +39,7 @@ active: false
 </table>
 </center>
 
+ test css
  
 <p>
 <script type="text/javascript" src="https://www.conwaylife.com/js/lv-plugin.js"></script></p>
@@ -67,7 +68,7 @@ bobobo$18b5o$19b3o3b2o$20bo3bobo$26bo7$21b3o$20b2ob2o$20b2ob2o$20b5o$
 
 
 <center>
-<table>
+<table class="center">
 <thead>
   <tr>
     <th class="tg-c3ow">A</th>
