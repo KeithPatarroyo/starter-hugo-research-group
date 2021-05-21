@@ -9,7 +9,7 @@ Patter Type: Logic Gate
 
 Discovery Year: 2013
 
-Composition: [Gosper Glider Gun](https://galapagos.netlify.app/database/gosper_glider_gun/) & [Gosper Glider Gun](https://galapagos.netlify.app/database/gosper_glider_gun/)(+8t)  & [Eater 1](https://galapagos.netlify.app/database/eater_1/) & [P60 Glider Gun(alternative)](https://galapagos.netlify.app/database/p60_glider_gun/)(+8t)
+Composition: [Gosper Glider Gun](https://galapagos.netlify.app/database/gosper_glider_gun/)(+0t) & [Gosper Glider Gun](https://galapagos.netlify.app/database/gosper_glider_gun/)(+11t)  & [Eater 1](https://galapagos.netlify.app/database/eater_1/) & [P60 Glider Gun(alternative)](https://galapagos.netlify.app/database/p60_glider_gun/)(+3t)
 
 Input: Glider P60 Stream(+0t)
 
