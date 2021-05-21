@@ -12,5 +12,6 @@ In this document we are recording the Game of Life patterns that have already be
 4. [Queen Bee Shuttle](https://galapagos.netlify.app/database/queen_bee_shuttle)  
 5. [Gosper Glider Gun/ P30 Glider Gun](https://galapagos.netlify.app/database/gosper_glider_gun) 
 6. [P60 Glider Gun](https://galapagos.netlify.app/database/p60_glider_gun) 
+7. [NOT Gate](https://galapagos.netlify.app/database/not_gate)
 
 *ToDo: A more descriptive database with patterns and its technological components: Principle, Architecture, Phenomenon and Subtechnologies.*
