@@ -25,6 +25,8 @@ table.center th{border-color: #ddd;border-style:solid;border-width:1px;border-to
 table.center .tg-c3ow{text-align:center;vertical-align:top}
 </style>
 
+ <br />
+
 <center>
 <table class="center">
 <thead>
@@ -41,9 +43,6 @@ table.center .tg-c3ow{text-align:center;vertical-align:top}
 </tbody>
 </table>
 </center>
-
- <br />
- <br />
 
 <p>
 <script type="text/javascript" src="https://www.conwaylife.com/js/lv-plugin.js"></script></p>
@@ -90,8 +89,6 @@ bobobo$18b5o$19b3o3b2o$20bo3bobo$26bo7$21b3o$20b2ob2o$20b2ob2o$20b5o$
 </table>
 </center>
 
- <br />
-  <br />
   
 <p>
 <script type="text/javascript" src="https://www.conwaylife.com/js/lv-plugin.js"></script></p>
