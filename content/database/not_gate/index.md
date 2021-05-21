@@ -20,7 +20,7 @@ active: false
 
 <style type="text/css">
 table.center  {display:contents;}
-table.center td{border-color: #ddd;border-style:solid;border-width:1px;}
+table.center td{border-color: #ddd;border-style:solid;border-width:1px;border-top: 1px solid #ddd;}
 table.center th{border-color: #ddd;border-style:solid;border-width:1px;}
 table.center .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
 </style>
@@ -42,8 +42,12 @@ table.center .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
 </table>
 </center>
 
- test css
- 
+|   A   | NOT A |
+|:-----:|:-----:|
+| False |  True |
+
+<p></p>
+
 <p>
 <script type="text/javascript" src="https://www.conwaylife.com/js/lv-plugin.js"></script></p>
 
@@ -69,6 +73,7 @@ bobobo$18b5o$19b3o3b2o$20bo3bobo$26bo7$21b3o$20b2ob2o$20b2ob2o$20b5o$
 #C [[ THEME 6 GRID GRIDMAJOR 0 ZOOM 1.6 ]]
 </code></div></div><canvas width="760" height="560" style="margin-left:1px; position: relative; z-index: 1031;"><noscript> <a href="https://www.conwaylife.com/wiki/File:Glider.png" class="image" title="Glider image"><img alt="Glider image" src="https://www.conwaylife.com/w/images/7/79/Glider.png" decoding="async" width="81" height="81" /></a> </noscript></canvas></div>
 
+<p></p>
 
 <center>
 <table class="center">
@@ -86,6 +91,8 @@ bobobo$18b5o$19b3o3b2o$20bo3bobo$26bo7$21b3o$20b2ob2o$20b2ob2o$20b5o$
 </tbody>
 </table>
 </center>
+
+<p></p>
 
   
 <p>
