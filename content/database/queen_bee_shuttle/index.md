@@ -5,13 +5,13 @@ active: false
 ---
 
 
-Patter Type: Oscillator
+**Pattern Type**: Oscillator
 
-Discovery Year: 1970
+**Discovery Year**: 1970
 
-Composition: [Queen Bee Shuttle](https://galapagos.netlify.app/database/queen_bee/) & x2 [Blocks](https://galapagos.netlify.app/database/block/)
+**Composition**: [Queen Bee Shuttle](https://galapagos.netlify.app/database/queen_bee/) & x2 [Blocks](https://galapagos.netlify.app/database/block/)
 
-Source: [Wiki](https://www.conwaylife.com/wiki/Queen_bee_shuttle)
+**Source**: [Wiki](https://www.conwaylife.com/wiki/Queen_bee_shuttle)
 <!--more-->
 
 <p>
