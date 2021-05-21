@@ -8,7 +8,7 @@ In this document we are recording the Game of Life patterns that have already be
 
 1. Gosper Glider Gun -> Queen Bee Shuttle & Queen Bee Shuttle(+5t)
 2. Queen Bee Shuttle -> Queen Bee & x2 Blocks
-3. Block -> Axiom
+3. [Block](https://galapagos.netlify.app/database/block) -> Axiom
 4. Queen Bee -> Axiom
 
 *ToDo: A more descriptive database with patterns and its technological components: Principle, Architecture, Phenomenon and Subtechnologies.*
