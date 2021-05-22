@@ -1,5 +1,5 @@
 ---
-title: We have a new Twitter account !!
+title: We have a new Twitter account 
 date: 2021-05-07
 ---
 
