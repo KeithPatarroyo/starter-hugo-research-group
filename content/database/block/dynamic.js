@@ -1,32 +1,16 @@
-function include(file) {
+//get the elements
+const canvas = document.getElementById("canvas");
+const myDiv = document.getElementById("my-div");
 
-var script = document.createElement('script');
-script.src = file;
-script.type = 'text/javascript';
-script.defer = true;
-
-document.getElementsByTagName('head').item(0).appendChild(script);
-
+//set the width and height attributes to the div width and height
+function resize(){
+  canvas.width = myDiv.clientWidth;
+  canvas.height = myDiv.clientHeight;
 }
+//on page resize, call resize()
+window.addEventListener("resize", resize, false);
 
-/* Include Many js files */
-include('https://galapagos.netlify.app/database/block/lv-plugin-1.js');
+//call resize() initially to set the canvas size correctly
+resize();
 
-var canvas = document.getElementById('canvas'),
-        context = canvas.getContext('2d');
-
-// resize the canvas to fill browser window dynamically
-window.addEventListener('resize', resizeCanvas, false);
-
-function resizeCanvas() {
-        canvas.width = window.innerWidth;
-        canvas.height = window.innerHeight;
-
-        /**
-         * Your drawings need to be inside this function otherwise they will be reset when 
-         * you resize the browser window and the canvas goes will be cleared.
-         */
-
-        draw();
-}
-resizeCanvas();
+//you can call resize() when your div changes size, dynamically resizing the canvas to the div
