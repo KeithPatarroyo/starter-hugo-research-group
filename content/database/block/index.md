@@ -15,7 +15,7 @@ active: false
 <!--more-->
 
 <p>
-<script type="text/javascript" src="https://galapagos.netlify.app/database/block/dynamic.js"></script></p>
+<script type="module" src="https://galapagos.netlify.app/database/block/dynamic.js"></script></p>
 
 test
                
