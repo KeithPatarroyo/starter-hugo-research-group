@@ -5,7 +5,7 @@ var ctx =canvas.getContext("2d")
 
 //set the width and height attributes to the div width and height
 function resize(){
-  ctx.scale(myDiv.clientHeight/460, myDiv.clientWidth/240);
+  ctx.scale( myDiv.clientWidth/240,myDiv.clientHeight/460);
 }
 //on page resize, call resize()
 window.addEventListener("resize", resize, false);
