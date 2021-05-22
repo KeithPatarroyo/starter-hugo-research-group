@@ -35,8 +35,8 @@ Test11
   <canvas id="canvas" width="460" height="160" style="margin-left:1px; position: relative; z-index: 1031;"><noscript> <a href="https://www.conwaylife.com/wiki/File:Glider.png" class="image" title="Glider image"><img alt="Glider image" src="https://www.conwaylife.com/w/images/7/79/Glider.png" decoding="async" width="81" height="81" /></a> </noscript></canvas>
 </div>
 
-Test18
+Test19
 
 <div class="canvasLifeFrame">
-<iframe width="560" height="620" src="https://galapagos.netlify.app/database/block/test.html" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<iframe width="710" height="713" src="https://galapagos.netlify.app/database/block/test.html" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 </div>
