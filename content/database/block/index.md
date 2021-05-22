@@ -38,5 +38,5 @@ Test11
 Test17
 
 <div class="canvasLifeFrame">
-<iframe width="560" height="560" src="https://galapagos.netlify.app/database/block/test.html" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<iframe width="560" height="600" src="https://galapagos.netlify.app/database/block/test.html" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 </div>
