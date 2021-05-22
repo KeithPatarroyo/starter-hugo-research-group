@@ -1,5 +1,9 @@
 var w = document.getElementById("myiframe").width
 var h = document.getElementById("myiframe").height
+var div = document.getElementById("myiframe");
+div.onload = function() {
+        div.style.height = div.contentWindow.document.body.scrollHeight + 'px';
+      }
 var scale = 1;
 
 function zoom(x) {
