@@ -15,7 +15,7 @@ active: false
 <!--more-->
 
 <p>
-<script type="text/javascript" src="https://raw.githubusercontent.com/KeithPatarroyo/starter-hugo-research-group/main/content/database/block/dynamic.js"></script></p>
+<script type="text/javascript" src="https://raw.githubusercontent.com/KeithPatarroyo/starter-hugo-research-group/main/content/database/block/lv-plugin.js"></script></p>
                
 <div class="rle"><div class="codebox"><div style="display:none; position: relative; z-index: 1031;"><code>2o$2o!
 #C [[ THEME 6 GRID GRIDMAJOR 0 ZOOM 8.0 ]]
