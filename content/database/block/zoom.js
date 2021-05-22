@@ -7,13 +7,13 @@ function zoom(x) {
     scale = scale * 1.1;
     w = w * 1.03;
     h = h * 1.1;
-    $("#myiframe").width(w + "px");
+    //$("#myiframe").width(w + "px");
     //$("#myiframe").height(h + "px");
   } else {
     scale = scale * 0.9;
     w = w * 0.97;
     h = h * 0.9;
-    $("#myiframe").width(w + "px");
+    //$("#myiframe").width(w + "px");
     //$("#myiframe").height(h + "px");
   }
 
