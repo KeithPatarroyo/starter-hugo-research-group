@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8">
+		<meta name="description" content="LifeViewer: a scriptable pattern viewer and editor used to simulate Life and a wide range of other 1D and 2D cellular automata. Author: Chris Rowett">
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<meta name="LifeViewer" content="viewer textarea 150 fullscreen /rules/ .rule">
+		<script src="https://lazyslug.com/lifeview/plugin/js/release/lv-plugin.js"></script>
+		<title>LifeViewer</title>
+	</head>
+	<body>
+		<div class="viewer">
+			<canvas width="560" height="560"></canvas> 
+			<br>
+			<label for="rle">Type or paste RLE data into the box below and click on the View button.</label>
+			<br>
+			<textarea id="rle" rows=5 cols=89 style="display:inline-block; vertical-align:top">
+# You can save the pattern into this box with Settings/Pattern/Save or Ctrl-S.
+x = 7, y = 3, rule = B3/S23
+2o$2o!
+#C [[ THEME 6 GRID GRIDMAJOR 0 ZOOM 8.0 ]]
+</textarea>
+			<button type="button" onclick="updateMe(this); return false;" style="font-size:24px; display:inline-block; vertical-align:top">View</button>
+			<form action="https://conwaylife.com/wiki/LifeViewer" method="get" target="_blank" style="display:inline-block; float:right;">
+				<input type="submit" value="Wiki" style="font-size:24px;">
+			</form>
+			<br>
+		</div>
+	</body>
+</html>
