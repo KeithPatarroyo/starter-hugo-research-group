@@ -36,7 +36,19 @@ Test11
 </div>
 
 
-Test21
+Test22
+<style type="text/css">
+#iframe {
+    zoom: 0.15;
+    -moz-transform:scale(0.75);
+    -moz-transform-origin: 0 0;
+    -o-transform: scale(0.75);
+    -o-transform-origin: 0 0;
+    -webkit-transform: scale(0.75);
+    -webkit-transform-origin: 0 0;
+}
+</style>
+
 <div class="canvasLifeFrame">
 <iframe width="710" height="650" src="https://galapagos.netlify.app/database/block/test.html" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 </div>
