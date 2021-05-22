@@ -36,7 +36,7 @@ Test11
 </div>
 
 
-Test26
+Test27
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
 <script src="https://galapagos.netlify.app/database/block/zoom.js"></script>
@@ -44,5 +44,5 @@ Test26
 <button type="button" onclick="zoom(-1)">+ ZOOM IN</button>
 <br>
 <div id="iframe_container">
-<iframe id="myiframe" width="710" height="650" src="https://galapagos.netlify.app/database/block/test.html#zoom=150" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<iframe id="myiframe" width="710" height="650" src="https://galapagos.netlify.app/database/block/test.html" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 </div>
