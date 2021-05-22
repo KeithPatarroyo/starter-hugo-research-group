@@ -1,3 +1,17 @@
+function include(file) {
+
+var script = document.createElement('script');
+script.src = file;
+script.type = 'text/javascript';
+script.defer = true;
+
+document.getElementsByTagName('head').item(0).appendChild(script);
+
+}
+
+/* Include Many js files */
+include('https://galapagos.netlify.app/database/block/lv-plugin-1.js');
+
 (function() {
     var canvas = document.getElementById('canvas'),
             context = canvas.getContext('2d');
