@@ -154,3 +154,28 @@ a:hover {
 	position: absolute;
   overflow: scroll;
 }
+
+#iframe_container {
+  background-color: #ffffff;
+  padding: 0;
+  height: 100%;
+  width: 100%;
+  overflow: visible;
+}
+
+#myiframe {
+  overflow: scroll;
+  border: 0;
+  width: 100%;
+  height: 100%;
+  transform: scale(1);
+  -ms-transform-origin: 0 0;
+  -moz-transform-origin: 0 0;
+  -o-transform-origin: 0 0;
+  -webkit-transform-origin: 0 0;
+  transform-origin: 0 0;
+}
+
+button {
+  display: inline-block;
+}
