@@ -2,7 +2,7 @@ var w = document.getElementById("myiframe").width
 var h = document.getElementById("myiframe").height
 var div = document.getElementById("myiframe");
 div.onload = function() {
-        div.style.height = div.contentWindow.document.body.scrollHeight + 'px';
+        div.style.height = div.contentWindow.document.body.scrollHeight + 100 + 'px';
       }
 var scale = 1;
 
