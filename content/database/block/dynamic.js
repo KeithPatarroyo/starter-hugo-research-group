@@ -5,7 +5,7 @@ const myDiv = document.getElementById("my-div");
 //set the width and height attributes to the div width and height
 function resize(){
   canvas.width = myDiv.clientWidth;
-  canvas.height = myDiv.clientHeight;
+  canvas.height =myDiv.clientWidth*(560/760);
 }
 //on page resize, call resize()
 window.addEventListener("resize", resize, false);
