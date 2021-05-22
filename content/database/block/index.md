@@ -22,15 +22,7 @@ active: false
 </code></div></div>
 
   <canvas id="canvas" width="760" height="560" style="margin-left:1px; position: relative; z-index: 1031;"><noscript> <a href="https://www.conwaylife.com/wiki/File:Glider.png" class="image" title="Glider image"><img alt="Glider image" src="https://www.conwaylife.com/w/images/7/79/Glider.png" decoding="async" width="81" height="81" /></a> </noscript></canvas>
-    <script>
-        var canvas = document.getElementById('canvas');
-        if (canvas.getContext) {
-            var ctx = canvas.getContext('2d');
-            ctx.fillRect(25,25,100,100);
-            ctx.clearRect(45,45,60,60);
-            ctx.strokeRect(50,50,50,50);
-        }
-    </script>
-  
+<p>
+<script type="text/javascript" src="https://raw.githubusercontent.com/KeithPatarroyo/starter-hugo-research-group/main/content/database/block/dynamic.js"></script></p>
   
 </div>
