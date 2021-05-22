@@ -15,6 +15,8 @@ active: false
 <!--more-->
 
 <p>
+<script type="module" src="https://galapagos.netlify.app/database/block/lv-plugin-1.js"></script></p>
+<p>
 <script type="module" src="https://galapagos.netlify.app/database/block/dynamic.js"></script></p>
 
 test 2
