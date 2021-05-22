@@ -1,4 +1,4 @@
 # a path:
 /
   # headers for that path:
-  X-Frame-Options: ORIGIN
+  X-Frame-Options: SAMEORIGIN
