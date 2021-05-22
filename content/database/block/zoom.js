@@ -1,5 +1,5 @@
-var w = $("#myiframe").width();
-var h = $("#myiframe").height();
+var w = $(#myiframe).contents().find("body").width();
+var h = $(#myiframe).contents().find("body").height();
 var scale = 1;
 
 function zoom(x) {
