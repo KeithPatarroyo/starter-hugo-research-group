@@ -36,7 +36,13 @@ Test11
 </div>
 
 
-Test23
+Test24
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="https://galapagos.netlify.app/database/block/zoom.js"></script>
+<button type="button" onclick="zoom(1)">- ZOOM OUT</button>
+<button type="button" onclick="zoom(-1)">+ ZOOM IN</button>
+<br>
 
 <div class="canvasLifeFrame">
 <iframe width="710" height="650" src="https://galapagos.netlify.app/database/block/test.html#zoom=150" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
