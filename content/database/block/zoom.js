@@ -3,12 +3,10 @@ var h = document.getElementById("myiframe").height
 var div = document.getElementById("myiframe");
 var scale = 1;
 div.onload = function() {
-        div.style.height = div.contentWindow.document.body.scrollHeight + 100 + 'px';
-        div.style.width = div.contentWindow.document.body.scrollHeight + 90 + 'px';
+        div.style.height = div.contentWindow.document.body.scrollHeight + 120 + 'px';
+        div.style.width = div.contentWindow.document.body.scrollHeight + 110 + 'px';
         if ($(window).width() < 770){
           scale = $(window).width()/ 840;
-        }else {
-          scale = 1*0.95;
         }
         $('#myiframe').css('transform', `scale(${scale})`);
       }
