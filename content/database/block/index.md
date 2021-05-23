@@ -23,6 +23,6 @@ test2
 
 <br>
 <div id="iframe_container">
-<iframe id="myiframe" width="710" height="650" src="https://galapagos.netlify.app/database/block/test.html" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<iframe id="myiframe" width="690" height="650" src="https://galapagos.netlify.app/database/block/test.html" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 </div>
 <script src="https://galapagos.netlify.app/database/block/zoom.js"></script>
