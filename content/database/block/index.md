@@ -19,7 +19,7 @@ active: false
 <script type="module" src="https://galapagos.netlify.app/database/block/lv-plugin.js"></script></p>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
 
-test1
+test2
 
 <br>
 <div id="iframe_container">
