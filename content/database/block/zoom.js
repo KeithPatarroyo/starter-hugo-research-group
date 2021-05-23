@@ -6,7 +6,9 @@ div.onload = function() {
         div.style.height = div.contentWindow.document.body.scrollHeight + 100 + 'px';
         div.style.width = div.contentWindow.document.body.scrollHeight + 90 + 'px';
         if ($(window).width() < 770){
-          scale = $(window).width()/ 820;
+          scale = $(window).width()/ 840;
+        }else {
+          scale = 1*0.95;
         }
         $('#myiframe').css('transform', `scale(${scale})`);
       }
