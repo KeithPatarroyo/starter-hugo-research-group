@@ -1,6 +1,7 @@
 var w = document.getElementById("myiframe").width
 var h = document.getElementById("myiframe").height
 var div = document.getElementById("myiframe");
+var divi = document.getElementById("iframe_container");
 var scale = 1;
 div.onload = function() {
         div.style.height = div.contentWindow.document.body.scrollHeight + 80 + 'px';
@@ -8,6 +9,7 @@ div.onload = function() {
         if ($(window).width() < 770){
           scale = $(window).width()/ 860;
           $('#myiframe').css('transform', `scale(${scale})`);
+           div.style.height =  $(window).width() + 'px';
         }
       }
 
