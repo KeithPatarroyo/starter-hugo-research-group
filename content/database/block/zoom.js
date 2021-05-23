@@ -1,11 +1,16 @@
 var w = document.getElementById("myiframe").width
 var h = document.getElementById("myiframe").height
 var div = document.getElementById("myiframe");
+var scale = 1;
 div.onload = function() {
         div.style.height = div.contentWindow.document.body.scrollHeight + 100 + 'px';
         div.style.width = div.contentWindow.document.body.scrollHeight + 90 + 'px';
+        if ($(window).width() < 770){
+          scale =  770/$(window).width();
+        }
+        $('#myiframe').css('transform', `scale(${scale})`);
       }
-var scale = 1;
+
 
 function zoom(x) {
   if (x === -1) {
