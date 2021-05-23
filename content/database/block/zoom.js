@@ -9,7 +9,7 @@ div.onload = function() {
         if ($(window).width() < 770){
           scale = $(window).width()/ 860;
           $('#myiframe').css('transform', `scale(${scale})`);
-           div.style.height =  $(window).width() + 'px';
+           divi.style.height =  $(window).width() + 'px';
         }
       }
 
