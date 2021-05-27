@@ -17,8 +17,8 @@ active: false
 <p>
 <script type="text/javascript" src="https://www.conwaylife.com/js/lv-plugin.js"></script></p>
 
-<div class="rle"><div class="codebox"><div style="display:none; position: relative; z-index: 1031;"><code>24bo11b$22bobo11b$12b2o6b2o12b2o$11bo3bo4b2o12b2o$2o8bo5bo3b2o14b$2o8b
-o3bob2o4bobo11b$10bo5bo7bo11b$11bo3bo20b$12b2o!
+<div class="rle"><div class="codebox"><div style="display:none; position: relative; z-index: 1031;"><code>23bo$21bobo$12bo7bobo11b2o$11b2o6bo2bo11b2o$2o8b2o4b2o2bobo$2o7b3o4b2o
+3bobo$10b2o4b2o5bo$11b2o$12bo!
 #C [[ THEME 6 GRID GRIDMAJOR 0 ZOOM 14.0 ]]
 #C [[ COLOR ARROW Orange ARROWSIZE 3 0.05 ARROWALPHA 0.70 ]]
 #C [[  ARROW -2 10 23 10 32  ]]
