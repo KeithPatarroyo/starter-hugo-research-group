@@ -9,7 +9,7 @@ active: false
 
 **Discovery Year**: 1970
 
-**Composition**: [Queen Bee Shuttle](https://galapagos.netlify.app/database/queen_bee_shuttle/) & [Queen Bee Shuttle](https://galapagos.netlify.app/database/queen_bee_shuttle/)(+5t)
+**Composition**: [Queen Bee Shuttle](https://galapagos.netlify.app/database/queen_bee_shuttle/) & [Queen Bee Shuttle](https://galapagos.netlify.app/database/queen_bee_shuttle/)(+10t)
 
 **Source**: [Wiki](https://www.conwaylife.com/wiki/Gosper_glider_gun)
 <!--more-->
