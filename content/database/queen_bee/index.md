@@ -19,13 +19,13 @@ active: false
 
 <div class="rle"><div class="codebox"><div style="display:none; position: relative; z-index: 1031;"><code>4bo$2bobo$bobo$o2bo$bobo$2bobo$4bo!
 #C [[ THEME 6 GRID GRIDMAJOR 0 ZOOM 32.0 ]]
-#C [[ COLOR ARROW Orange ARROWSIZE 3 0.1 ARROWALPHA 0.70 ]]
+#C [[ COLOR ARROW Fuchsia ARROWSIZE 3 0.1 ARROWALPHA 0.70 ]]
 #C [[  ARROW -2 8 6 8 32  ]]
-#C [[ COLOR ARROW Red ARROWSIZE 3 0.1 ARROWALPHA 0.70 ]]
+#C [[ COLOR ARROW Lime ARROWSIZE 3 0.1 ARROWALPHA 0.70 ]]
 #C [[  ARROW 6 8 6 -2 32  ]]
-#C [[ COLOR ARROW Green ARROWSIZE 3 0.1 ARROWALPHA 0.70 ]]
+#C [[ COLOR ARROW Salmon ARROWSIZE 3 0.1 ARROWALPHA 0.70 ]]
 #C [[  ARROW 6 -2 -2 -2 32  ]]
-#C [[ COLOR ARROW Blue ARROWSIZE 3 0.1 ARROWALPHA 0.70 ]]
+#C [[ COLOR ARROW Grey ARROWSIZE 3 0.1 ARROWALPHA 0.70 ]]
 #C [[  ARROW -2 -2 -2 8 32  ]]
 #C [[ COLOR LABEL Green LABELSIZE 40  LABELALPHA 0.70 ]]
 #C [[ LABEL 2 -3 32 "Queen Bee" ]]
