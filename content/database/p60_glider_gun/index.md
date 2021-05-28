@@ -76,7 +76,7 @@ o12b3o4bo$24bobo7bo$25b2o5b2obo$35bo$35b2o!
 
 ## Alternative Design
 
-**Composition**: [Gosper Glider Gun](https://galapagos.netlify.app/database/gosper_glider_gun/) & [Gosper Glider Gun](https://galapagos.netlify.app/database/gosper_glider_gun/)(+11t) 
+**Composition**: [Gosper Glider Gun](https://galapagos.netlify.app/database/gosper_glider_gun/) & [Gosper Glider Gun](https://galapagos.netlify.app/database/gosper_glider_gun/)(+19t) 
 
 **Source**: [Nicholas Carlini](https://nicholas.carlini.com/writing/2020/digital-logic-game-of-life.html)
 
