@@ -19,13 +19,13 @@ active: false
 
 <div class="rle"><div class="codebox"><div style="display:none; position: relative; z-index: 1031;"><code>2o$obo$2bo$2b2o!
 #C [[ THEME 6 GRID GRIDMAJOR 0 ZOOM 32.0 ]]
-#C [[ COLOR ARROW Orange ARROWSIZE 3 0.1 ARROWALPHA 0.70 ]]
+#C [[ COLOR ARROW Fuchsia ARROWSIZE 3 0.1 ARROWALPHA 0.70 ]]
 #C [[  ARROW -2 5 5 5 32  ]]
-#C [[ COLOR ARROW Red ARROWSIZE 3 0.1 ARROWALPHA 0.70 ]]
+#C [[ COLOR ARROW Lime ARROWSIZE 3 0.1 ARROWALPHA 0.70 ]]
 #C [[  ARROW 5 5 5 -2 32  ]]
-#C [[ COLOR ARROW Green ARROWSIZE 3 0.1 ARROWALPHA 0.70 ]]
+#C [[ COLOR ARROW Salmon ARROWSIZE 3 0.1 ARROWALPHA 0.70 ]]
 #C [[  ARROW 5 -2 -2 -2 32  ]]
-#C [[ COLOR ARROW Blue ARROWSIZE 3 0.1 ARROWALPHA 0.70 ]]
+#C [[ COLOR ARROW Gray ARROWSIZE 3 0.1 ARROWALPHA 0.70 ]]
 #C [[  ARROW -2 -2 -2 5 32  ]]
 #C [[ COLOR LABEL Green LABELSIZE 40  LABELALPHA 0.70 ]]
 #C [[ LABEL 2 -3 32 "Eater 1" ]]
