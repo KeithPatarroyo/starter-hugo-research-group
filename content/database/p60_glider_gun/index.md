@@ -71,7 +71,15 @@ o12b3o4bo$24bobo7bo$25b2o5b2obo$35bo$35b2o!
 #C [[ COLOR LABEL Green LABELSIZE 30  LABELALPHA 0.70 ]]
 #C [[ LABEL 18 12 18 "Gosper Glider Gun" ]]
 #C [[ COLOR LABEL Green LABELSIZE 30  LABELALPHA 0.70 ]]
-#C [[ LABEL 18 28 18 "Gosper Glider Gun" ]]
+#C [[ LABEL 22 27 18 "Gosper Glider Gun" ]]
+#C [[ COLOR ARROW Yellow ARROWSIZE 3 0.02 ARROWALPHA 0.70 ]]
+#C [[  ARROW -2 28 40 28 18  ]]
+#C [[ COLOR ARROW Cyan ARROWSIZE 3 0.02 ARROWALPHA 0.70 ]]
+#C [[  ARROW 40 28 40 -2 18  ]]
+#C [[ COLOR ARROW Brown ARROWSIZE 3 0.02 ARROWALPHA 0.70 ]]
+#C [[  ARROW -2 -2 -2 28 18  ]]
+#C [[ COLOR ARROW Purple ARROWSIZE 3 0.02 ARROWALPHA 0.70 ]]
+#C [[  ARROW 40 -2 -2 -2 18  ]]
 </code></div></div><canvas width="760" height="560" style="margin-left:1px; position: relative; z-index: 1031;"><noscript> <a href="https://www.conwaylife.com/wiki/File:Glider.png" class="image" title="Glider image"><img alt="Glider image" src="https://www.conwaylife.com/w/images/7/79/Glider.png" decoding="async" width="81" height="81" /></a> </noscript></canvas></div>
 
 ## Alternative Design
