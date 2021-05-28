@@ -17,12 +17,61 @@ active: false
 <p>
 <script type="text/javascript" src="https://www.conwaylife.com/js/lv-plugin.js"></script></p>
 
-<div class="rle"><div class="codebox"><div style="display:none; position: relative; z-index: 1031;"><code>27bo$27b4o$11bo16b4o$10bobo5b2o8bo2bo5b2o$3b2o3b2o3bo14b4o5b2o$3b2o3b
-2o3bo4bobob2o3b4o$8b2o3bo5b2o3bo2bo$10bobo10bo$11bo8bo2bo2$26bobo$28bo
-$24bo$26bo$25bo2$11b2o$11b2o4bo$2o6b2o6b5ob2o$2o5b3o5bo2b2o4bo$8b2o5b
-2o8bo12bo$11b2o4bo7bo10bobo$11b2o12bo11b2o$24bo8b2o$22b2o9bobo$35bo$
-35b2o!
-#C [[ THEME 6 GRID GRIDMAJOR 0 ZOOM 8.0 ]]
+<div class="rle"><div class="codebox"><div style="display:none; position: relative; z-index: 1031;"><code>x = 39, y = 27, rule = Life
+26bo$24bobo$15bo7bobo$14b2o6bo2bo11b2o$3b2o8b2o4b2o2bobo11b2o$3b2o7b3o
+4b2o3bobo$13b2o4b2o5bo$14b2o$15bo$27bo$28bo$26b3o4$21b3o$10bo12bo$10b
+4o8bo$2o9b4o10b2o$2o9bo2bo9bobo$5bo5b4o8b3o4b2o$5bo4b4o8b3o4bo2bo$10b
+o12b3o4bo$24bobo7bo$25b2o5b2obo$35bo$35b2o!
+#C [[ THEME 6 GRID GRIDMAJOR 0 ZOOM 11.0 ]]
+#C [[ COLOR ARROW Orange ARROWSIZE 3 0.05 ARROWALPHA 0.70 ]]
+#C [[  ARROW 1 10 26 10 18  ]]
+#C [[ COLOR ARROW Red ARROWSIZE 3 0.1 ARROWALPHA 0.70 ]]
+#C [[  ARROW 26 10 26 0 18  ]]
+#C [[ COLOR ARROW Green ARROWSIZE 3 0.05 ARROWALPHA 0.70 ]]
+#C [[  ARROW 26 0 1 0 18  ]]
+#C [[ COLOR ARROW Blue ARROWSIZE 3 0.1 ARROWALPHA 0.70 ]]
+#C [[  ARROW 1 0 1 10 18  ]]
+#C [[ COLOR ARROW Orange ARROWSIZE 3 0.05 ARROWALPHA 0.70 ]]
+#C [[  ARROW 15 8 40 8 18  ]]
+#C [[ COLOR ARROW Red ARROWSIZE 3 0.1 ARROWALPHA 0.70 ]]
+#C [[  ARROW 40 8 40 -2 18  ]]
+#C [[ COLOR ARROW Green ARROWSIZE 3 0.05 ARROWALPHA 0.70 ]]
+#C [[  ARROW 40 -2 15 -2 18  ]]
+#C [[ COLOR ARROW Blue ARROWSIZE 3 0.1 ARROWALPHA 0.70 ]]
+#C [[  ARROW 15 -2 15 8 18  ]]
+#C [[ COLOR LABEL Green LABELSIZE 40  LABELALPHA 0.70 ]]
+#C [[ LABEL 18 -4 14 "P60 Glider Gun" ]]
+#C [[ COLOR ARROW Green ARROWSIZE 3 0.05 ARROWALPHA 0.70 ]]
+#C [[  ARROW 23 24 -2 24 18  ]]
+#C [[ COLOR ARROW Red ARROWSIZE 3 0.1 ARROWALPHA 0.70 ]]
+#C [[  ARROW 23 14 23 24 18  ]]
+#C [[ COLOR ARROW Orange ARROWSIZE 3 0.05 ARROWALPHA 0.70 ]]
+#C [[  ARROW -2 14 23 14 18  ]]
+#C [[ COLOR ARROW Blue ARROWSIZE 3 0.1 ARROWALPHA 0.70 ]]
+#C [[  ARROW -2 24 -2 14 18  ]]
+#C [[ COLOR ARROW Green ARROWSIZE 3 0.05 ARROWALPHA 0.70 ]]
+#C [[  ARROW 37 26 12 26 18  ]]
+#C [[ COLOR ARROW Red ARROWSIZE 3 0.1 ARROWALPHA 0.70 ]]
+#C [[  ARROW 37 16 37 26 18  ]]
+#C [[ COLOR ARROW Orange ARROWSIZE 3 0.05 ARROWALPHA 0.70 ]]
+#C [[  ARROW 12 16 37 16 18  ]]
+#C [[ COLOR ARROW Blue ARROWSIZE 3 0.1 ARROWALPHA 0.70 ]]
+#C [[  ARROW 12 26 12 16 18  ]]
+#C [[ COLOR LABEL Green LABELSIZE 40  LABELALPHA 0.70 ]]
+#C [[ COLOR ARROW Fuchsia ARROWSIZE 3 0.1 ARROWALPHA 0.70 ]]
+#C [[  ARROW 31 28 38 28 18  ]]
+#C [[ COLOR ARROW Lime ARROWSIZE 3 0.1 ARROWALPHA 0.70 ]]
+#C [[  ARROW 38 28 38 21 18  ]]
+#C [[ COLOR ARROW Salmon ARROWSIZE 3 0.1 ARROWALPHA 0.70 ]]
+#C [[  ARROW 38 21 31 21 18  ]]
+#C [[ COLOR ARROW Gray ARROWSIZE 3 0.1 ARROWALPHA 0.70 ]]
+#C [[  ARROW 31 21 31 28 18  ]]
+#C [[ COLOR LABEL Green LABELSIZE 30  LABELALPHA 0.70 ]]
+#C [[ LABEL 34 29 18 "Eater 1" ]]
+#C [[ COLOR LABEL Green LABELSIZE 30  LABELALPHA 0.70 ]]
+#C [[ LABEL 18 12 18 "Gosper Glider Gun" ]]
+#C [[ COLOR LABEL Green LABELSIZE 30  LABELALPHA 0.70 ]]
+#C [[ LABEL 18 28 18 "Gosper Glider Gun" ]]
 </code></div></div><canvas width="760" height="560" style="margin-left:1px; position: relative; z-index: 1031;"><noscript> <a href="https://www.conwaylife.com/wiki/File:Glider.png" class="image" title="Glider image"><img alt="Glider image" src="https://www.conwaylife.com/w/images/7/79/Glider.png" decoding="async" width="81" height="81" /></a> </noscript></canvas></div>
 
 ## Alternative Design
