@@ -48,7 +48,6 @@ table.center .tg-c3ow{text-align:center;vertical-align:top}
 <script type="text/javascript" src="https://www.conwaylife.com/js/lv-plugin.js"></script></p>
 
 <div class="rle"><div class="codebox"><div style="display:none; position: relative; z-index: 1031;"><code>103b2o$103bobo$90bobo13bo7b2o$89bo2bo2b2o6bo2bo7b2o$80b2o6b2o5bobo8bo 173b2o$80b2o4b2o3bo3bo3bo3bobo173bobo$88b2o5b3ob2o2b2o176bo$89bo2bo3b 2o$90bobo3$106bo$104bobo$105b2o5$113bo$114bo48bo101b2o$112b3o46b3o100b obo$160bo105bo$160b2o4$121bo$119bobo$120b2o4$149b2o$150b2o$149bo100b2o $249bobo$251bo3$142bo$142b2o$141bobo6$134b2o$135b2o$134bo100b2o$234bo bo$236bo3$127bo$127b2o$126bobo6$119b2o$120b2o$119bo100b2o$219bobo$221b o3$112bo$112b2o$111bobo6$104b2o$105b2o$104bo100b2o$204bobo$206bo3$97b o$97b2o$96bobo6$89b2o$90b2o$89bo100b2o$189bobo$191bo3$82bo$82b2o$81bo bo6$74b2o$75b2o$74bo100b2o$174bobo$176bo3$67bo$67b2o$66bobo6$59b2o$60b 2o$59bo100b2o$159bobo$161bo3$52bo$52b2o$51bobo2$30b2o$30bo2bo2$34bo$44b 2o$32b2o11b2o$31bo12bo100b2o$144bobo$146bo$28b2o3b2o$28b2o3b2o$29b5o3b o$30bobo4b2o$36bobo$30b3o5$33bo$32bobo$31bo3bo94b2o$32b3o94bobo$30b2o 3b2o94bo11$32b2o$32b2o$115b2o$114bobo$116bo13$100b2o$99bobo$101bo13$85b 2o$84bobo$86bo13$70b2o$69bobo$71bo13$55b2o$54bobo$56bo3$22bo$20b4o$11b 2o5b4ob2o9b2o$9bo2bo3bo3b2ob3o8b2o$2o6bo7bo3b2ob2o$2o6bo6bo3b5o$8bo7b 3o3bo$9bo2bo$11b2o2$24bo15b2o$25b2o12bobo$24b2o15bo$19b2o$19b2o$19b2o $20bo10b2o$19bobo7bo2bo$19bobo7b4o$20bo11bo$31bo$31b3o$17b2o3b2o$17bo bobobo$18b5o$19b3o3b2o$20bo3bobo$26bo7$21b3o$20b2ob2o$20b2ob2o$20b5o$ 19b2o3b2o5$23b2o4$21b2o$21b2o! 
-
 #C [[ COLOR ARROW Orange ARROWSIZE 3 0.05 ARROWALPHA 0.70 ]]
 #C [[  ARROW 78 10 103 10 2.0  ]]
 #C [[ COLOR ARROW Red ARROWSIZE 3 0.1 ARROWALPHA 0.70 ]]
@@ -105,7 +104,6 @@ table.center .tg-c3ow{text-align:center;vertical-align:top}
 #C [[  ARROW 165 -2 -2 -2 2.0  ]]
 #C [[ COLOR ARROW Purple ARROWSIZE 3 0.02 ARROWALPHA 0.70 ]]
 #C [[  ARROW -2 -2 -2 284 2.0  ]]
-
 #C [[ COLOR LABEL Green LABELSIZE 10 LABELALPHA 0.70 ]] 
 #C [[ LABEL 20 228 2.0 "P60 Glider Gun(alternative)" ]]
 #C [[ COLOR LABEL Green LABELSIZE 10 LABELALPHA 0.70 ]] 
@@ -116,7 +114,6 @@ table.center .tg-c3ow{text-align:center;vertical-align:top}
 #C [[ LABEL 160 14 2.0 "Eater 1" ]]
 #C [[ COLOR LABEL Green LABELSIZE 40 LABELALPHA 0.70 ]] 
 #C [[ LABEL 100 -15 2.0 "NOT Gate 1" ]]
-
 #C [[ THEME 6 GRID GRIDMAJOR 0 ZOOM 1.0 ]]
 </code></div></div><canvas width="760" height="560" style="margin-left:1px; position: relative; z-index: 1031;"><noscript> <a href="https://www.conwaylife.com/wiki/File:Glider.png" class="image" title="Glider image"><img alt="Glider image" src="https://www.conwaylife.com/w/images/7/79/Glider.png" decoding="async" width="81" height="81" /></a> </noscript></canvas></div>
 
