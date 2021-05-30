@@ -136,7 +136,7 @@ o$31bo$17b2o3b2o7bo$18b5o3b2o$18b2ob2o4b2o$18b2ob2o3bo$19b3o5$21b3o$21b
 #C [[  ARROW -39 1 66 106 2.0  ]]
 #C [[ COLOR ARROW Red ARROWSIZE 3 0.05 ARROWALPHA 0.70 ]]
 #C [[  ARROW 113 168 278 3 2.0  ]]
-#C [[ THEME 6 GRID GRIDMAJOR 0 ZOOM 1.0 ]]
+#C [[ THEME 6 GRID GRIDMAJOR 0 ZOOM 1.3 ]]
 </code></div></div><canvas width="760" height="560" style="margin-left:1px; position: relative; z-index: 1031;"><noscript> <a href="https://www.conwaylife.com/wiki/File:Glider.png" class="image" title="Glider image"><img alt="Glider image" src="https://www.conwaylife.com/w/images/7/79/Glider.png" decoding="async" width="81" height="81" /></a> </noscript></canvas></div>
 
  <br />
@@ -257,7 +257,7 @@ $100b3o$99bo3bo$98bo5bo$99bo3bo$100b3o10$100b2o$100b2o!
 #C [[ LABEL 238 52 2.0 "Eater 1" ]]
 #C [[ COLOR LABEL Green LABELSIZE 40 LABELALPHA 0.70 ]]
 #C [[ LABEL 178 23 2.0 "NOT Gate 2" ]]
-#C [[ THEME 6 GRID GRIDMAJOR 0 ZOOM 1.0 ]]
+#C [[ THEME 6 GRID GRIDMAJOR 0 ZOOM 1.3 ]]
 </code></div></div><canvas width="760" height="560" style="margin-left:1px; position: relative; z-index: 1031;"><noscript> <a href="https://www.conwaylife.com/wiki/File:Glider.png" class="image" title="Glider image"><img alt="Glider image" src="https://www.conwaylife.com/w/images/7/79/Glider.png" decoding="async" width="81" height="81" /></a> </noscript></canvas></div>
 
 
