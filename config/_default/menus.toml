@@ -20,7 +20,7 @@
   
 [[main]]
   name = "Gemini"
-  url = "content/gemini"
+  url = "gemini"
   weight = 26
   
 [[main]]
