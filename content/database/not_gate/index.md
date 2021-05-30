@@ -66,7 +66,6 @@ o19bo$2o4bo4bo7b2o2bo2bo$7bo7bobo2bo2b2o$7bo3bo5b3o$9bobo$41b2o$42b2o
 $26bo14bo$27bo$19b2o4b3o$19b2o3$29bo3b2o$21b2o5b3ob3o$29bo2b3o$30bo$32b
 o$31bo$17b2o3b2o7bo$18b5o3b2o$18b2ob2o4b2o$18b2ob2o3bo$19b3o5$21b3o$21b
 3o$20bo3bo$19bo5bo$20bo3bo$21b3o10$21b2o$21b2o!
- 
 #C [[ COLOR ARROW Orange ARROWSIZE 3 0.05 ARROWALPHA 0.70 ]]
 #C [[  ARROW 78 10 103 10 2.0  ]]
 #C [[ COLOR ARROW Red ARROWSIZE 3 0.1 ARROWALPHA 0.70 ]]
