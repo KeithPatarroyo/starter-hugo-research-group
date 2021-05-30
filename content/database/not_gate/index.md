@@ -141,29 +141,101 @@ table.center .tg-c3ow{text-align:center;vertical-align:top}
 <p>
 <script type="text/javascript" src="https://www.conwaylife.com/js/lv-plugin.js"></script></p>
 
-<div class="rle"><div class="codebox"><div style="display:none; position: relative; z-index: 1031;"><code>43b2o$42bobo$41b3o$41b2o$41b2o$42bobo$43bo$153b2o$152bo3bo$40b2o3b2o89b
-2o13bo5bo3b2o$40b2o3b2o89b2o13bo3bob2o2b2o$127b2o3bo6b2o10bo5bo$42b3o
-82bobo3bo5b3o10bo3bo$42b3o83b5o6b2o12b2o$43bo85b3o4b2o9bobo$136b2o10b
-2o$148bo$23b2o$23bo2bo$9bobo15bo6b2o$7bo3bo2b3o10bo6b2o5bo$2o5bo19bo11b
-2o114bo$2o4bo4bo7b2o2bo2bo13b2o114b2o$7bo7bobo2bo2b2o130b2o$7bo3bo5b3o
-24b3o$9bobo31bo3bo$42bo5bo161bo$31b2o9bo5bo159b3o$26bo3b3o12bo161bo$27b
-o15bo3bo114bobo42b2o$25b3o16b3o116b2o$45bo117bo3$45b2o$45b2o$170bo$171b
-2o$170b2o5$41bo$42bo134bobo$40b3o135b2o$178bo5$184b3o$186bo$185bo5$56b
-o$57bo$55b3o6$169b3o$171bo$170bo5$71bo$72bo134bobo$70b3o135b2o$208bo5$
-154b3o$156bo$155bo5$86bo$87bo$85b3o6$139b3o$141bo$140bo96bo$237b2o$236b
-o2bo$237b2o$237bo$101bo$102bo$100b3o6$124b3o$126bo$125bo99b2o$226b2o$
-225bo3$112bo$112b2o$112b2o6$109b3o$111bo$110bo99b2o$211b2o$210bo3$102b
-2o$101bobo$103bo5$77b2o$77b2o15b3o$96bo$95bo99b2o$196b2o$195bo3$77b3o
-7b2o$76bo3bo5bobo$88bo$75bo5bo$75b2o3b2o3$80b2o$80bobo$82bo$81b2o97b2o
-$78bo102b2o$78bo2bo98bo$78bo3$77b2obob2o2$77bo5bo2$78b2ob2o$80bo4$165b
-2o$79b2o85b2o$79b2o84bo13$150b2o$151b2o$150bo13$135b2o$136b2o$135bo13$
-120b2o$121b2o$120bo13$105b2o$106b2o$105bo6$74bo$73bobo$56b2o15b2obo4b
-2o$56bobo14b2ob2o3b2o$47b2o2b2o6bo13b2obo$47b2obo2bo2bo2bo13bobo$51b2o
-6bo8bo5bo$56bobo7bobo21b2o$56b2o9b2o22b2o$90bo4$66b2o6bobo$66b2o5bo2b
-o$73bo$74bobob2o$75bo$78b2o4$67bo7b2o$66b3o7b2o$65b5o5bo$64b2o3b2o3$69b
-2o$71bo$68bo$68bo2bo$67b2ob2o$68b2o3$66b2o3b2o$66b2o3b2o$67b5o$68bobo
-2$68b3o6$68b2o$68b2o!
-#C [[ THEME 6 GRID GRIDMAJOR 0 ZOOM 1.6 ]]
+<div class="rle"><div class="codebox"><div style="display:none; position: relative; z-index: 1031;"><code>x = 274, y = 322, rule = Life
+43b2o$43b2o3$43bo$42bobo$41bo3bo$41b5o$40b2o3b2o$41b5o$42b3o$43bo4$44b
+o$41b2o$22bo18b3o$21bobo18b2o$11b2o6b2o3bo9b2o6bo$10bobo4b2obo3bo9b2o
+5bobo$2o7b3o4b3obo3bo16b2o$2o6b3o4bo2b2obobo$9b3o4b2o4bo$10bobo29b2ob
+ob2o$11b2o$35bo6bo5bo$25bo8bo$23bobo5b2ob2o7b2ob2o$24b2o2bo3bo12bo$28b
+o2b2o$31b2o$28bobo2$45b2o$45b2o4$183bobo$183bo3bo$167bo19bo5b2o$40bo124b
+4o14bo4bo4b2o$38bobo118b2o3bobob2o4bo12bo$39b2o118b2o2bo2bob3o5b2obo3b
+o3bo$164bobob2o5b4obo2bobo$165b4o6b2o2b2o$167bo5$185bobo$186b2o$186bo
+3$55bo$53bobo186bo$54b2o137bo46b3o$194b2o43bo$193b2o44b2o6$200bobo$201b
+2o$201bo28b2o$229bobo$231bo$70bo$68bobo$69b2o137bo$209b2o$208b2o5$215b
+3o$215bo$215bobo4$85bo$83bobo$84b2o137bo$224b2o$223b2o8$200b2o$199bob
+o$201bo$100bo$98bobo$99b2o10$185b2o$184bobo$186bo$115bo$113bobo$114b2o
+137bo$254b2o$253b2o8$170b2o$169bobo98b3o$171bo97bo3bo$130bo138bo3bo$128b
+obo139b3o$129b2o10$155b2o$154bobo$156bo99bo$145bo110b2o$143bobo109bob
+o$144b2o3$147b3o$149bo$148bo5$140b2o$139bobo$141bo99bo$241b2o$240bobo
+4$132b3o$134bo$133bo3$109b2o$109b2o$125b2o$124bobo$126bo99bo$226b2o$225b
+obo4$117b3o$109b3o7bo$108bo3bo5bo$107bo5bo$108bo3bo$109b3o$109bo2bo$110b
+3o$110b2obo$111bobo97bo$112bo98b2o$210bobo2$109b2o3b2o$109bobobobo$110b
+5o$111b3o$112bo7$111b2o83bo$111b2o83b2o$195bobo13$181bo$181b2o$180bob
+o13$166bo$166b2o$165bobo13$151bo$151b2o$150bobo13$136bo$136b2o$135bob
+o5$102b2o$102b3o$88bo15b2obo5b2o$86bobo4b3o8bo2bo5b2o$79b2o4bobo16b2o
+bo$79b2o3bo2bo7bo2b2o2b3o$85bobo7bo3bo2b2o$86bobo6bo2bo$88bo8b2o22bo$
+121b2o$120bobo2$106bo$98b2o4bobo$98b2o5b2o2$108bo$107bobo$106b2obobob
+2o$108b2ob2o$110b3o$109bo$110b2o$106bo$96b2o3b2o3b2o$105bobo$97bo3bo$
+98b3o$98b3o3$101bo$100b3o$99bo3bo$101bo$98bo5bo$98bo5bo$99bo3bo$100b3o
+9$100b2o$100b2o!
+#C [[ COLOR ARROW Orange ARROWSIZE 3 0.05 ARROWALPHA 0.70 ]]
+#C [[  ARROW 157 49 182 49 2.0  ]]
+#C [[ COLOR ARROW Red ARROWSIZE 3 0.1 ARROWALPHA 0.70 ]]
+#C [[  ARROW 182 49 182 39 2.0  ]]
+#C [[ COLOR ARROW Green ARROWSIZE 3 0.05 ARROWALPHA 0.70 ]]
+#C [[  ARROW 182 39 157 39 2.0  ]]
+#C [[ COLOR ARROW Blue ARROWSIZE 3 0.1 ARROWALPHA 0.70 ]]
+#C [[  ARROW 157 39 157 49 2.0  ]]
+#C [[ COLOR ARROW Orange ARROWSIZE 3 0.05 ARROWALPHA 0.70 ]]
+#C [[  ARROW 171 47 196 47 2.0  ]]
+#C [[ COLOR ARROW Red ARROWSIZE 3 0.1 ARROWALPHA 0.70 ]]
+#C [[  ARROW 196 47 196 37 2.0  ]]
+#C [[ COLOR ARROW Green ARROWSIZE 3 0.05 ARROWALPHA 0.70 ]]
+#C [[  ARROW 196 37 171 37 2.0  ]]
+#C [[ COLOR ARROW Blue ARROWSIZE 3 0.1 ARROWALPHA 0.70 ]]
+#C [[  ARROW 171 37 171 47 2.0  ]]
+#C [[ COLOR ARROW Orange ARROWSIZE 3 0.05 ARROWALPHA 0.70 ]]
+#C [[  ARROW 117 209 117 184 2.0  ]]
+#C [[ COLOR ARROW Red ARROWSIZE 3 0.1 ARROWALPHA 0.70 ]]
+#C [[  ARROW 117 184 107 184 2.0  ]]
+#C [[ COLOR ARROW Green ARROWSIZE 3 0.05 ARROWALPHA 0.70 ]]
+#C [[  ARROW 107 184 107 209 2.0  ]]
+#C [[ COLOR ARROW Blue ARROWSIZE 3 0.1 ARROWALPHA 0.70 ]]
+#C [[  ARROW 107 209 117 209 2.0  ]]
+#C [[ COLOR ARROW Orange ARROWSIZE 3 0.05 ARROWALPHA 0.70 ]]
+#C [[  ARROW 115 195 115 170 2.0  ]]
+#C [[ COLOR ARROW Red ARROWSIZE 3 0.1 ARROWALPHA 0.70 ]]
+#C [[  ARROW 115 170 105 170 2.0  ]]
+#C [[ COLOR ARROW Green ARROWSIZE 3 0.05 ARROWALPHA 0.70 ]]
+#C [[  ARROW 105 170 105 195 2.0  ]]
+#C [[ COLOR ARROW Blue ARROWSIZE 3 0.1 ARROWALPHA 0.70 ]]
+#C [[  ARROW 105 195 115 195 2.0  ]]
+#C [[ COLOR ARROW Gray ARROWSIZE 3 0.02 ARROWALPHA 0.70 ]]
+#C [[  ARROW 116 323 116 271 2.0  ]]
+#C [[ COLOR ARROW Fuchsia ARROWSIZE 3 0.02 ARROWALPHA 0.70 ]]
+#C [[  ARROW 116 271 77 271 2.0  ]]
+#C [[ COLOR ARROW Lime ARROWSIZE 3 0.02 ARROWALPHA 0.70 ]]
+#C [[  ARROW 77 323 116 323 2.0  ]]
+#C [[ COLOR ARROW Salmon ARROWSIZE 3 0.02 ARROWALPHA 0.70 ]]
+#C [[  ARROW 77 271 77 323 2.0  ]]
+#C [[ COLOR ARROW Fuchsia ARROWSIZE 3 0.1 ARROWALPHA 0.70 ]]
+#C [[  ARROW 244 63 244 56 2.0  ]]
+#C [[ COLOR ARROW Lime ARROWSIZE 3 0.1 ARROWALPHA 0.70 ]]
+#C [[  ARROW 244 56 237 56 2.0  ]]
+#C [[ COLOR ARROW Salmon ARROWSIZE 3 0.1 ARROWALPHA 0.70 ]]
+#C [[  ARROW 237 56 237 63 2.0  ]]
+#C [[ COLOR ARROW Gray ARROWSIZE 3 0.1 ARROWALPHA 0.70 ]]
+#C [[  ARROW 237 63 244 63 2.0  ]]
+#C [[ COLOR ARROW Cyan ARROWSIZE 3 0.02 ARROWALPHA 0.70 ]]
+#C [[  ARROW 77 323 275 323 2.0  ]]
+#C [[ COLOR ARROW Yellow ARROWSIZE 3 0.02 ARROWALPHA 0.70 ]]
+#C [[  ARROW 275 323 275 37 2.0  ]]
+#C [[ COLOR ARROW Brown ARROWSIZE 3 0.02 ARROWALPHA 0.70 ]]
+#C [[  ARROW 275 37 77 37 2.0  ]]
+#C [[ COLOR ARROW Purple ARROWSIZE 3 0.02 ARROWALPHA 0.70 ]]
+#C [[  ARROW 77 37 77 323 2.0  ]]
+#C [[ COLOR ARROW Red ARROWSIZE 3 0.05 ARROWALPHA 0.70 ]]
+#C [[  ARROW 41 41 146 146 2.0  ]]
+#C [[ COLOR LABEL Green LABELSIZE 10 LABELALPHA 0.70 ]]
+#C [[ LABEL 98 264 2.0 "P60 Glider Gun(alternative)" ]]
+#C [[ COLOR LABEL Green LABELSIZE 10 LABELALPHA 0.70 ]]
+#C [[ LABEL 98 164 2.0 "Gosper Glider Gun" ]]
+#C [[ COLOR LABEL Green LABELSIZE 10 LABELALPHA 0.70 ]]
+#C [[ LABEL 178 56 2.0 "Gosper Glider Gun" ]]
+#C [[ COLOR LABEL Green LABELSIZE 10 LABELALPHA 0.70 ]]
+#C [[ LABEL 238 52 2.0 "Eater 1" ]]
+#C [[ COLOR LABEL Green LABELSIZE 40 LABELALPHA 0.70 ]]
+#C [[ LABEL 178 23 2.0 "NOT Gate 2" ]]
+#C [[ THEME 6 GRID GRIDMAJOR 0 ZOOM 1.0 ]]
 </code></div></div><canvas width="760" height="560" style="margin-left:1px; position: relative; z-index: 1031;"><noscript> <a href="https://www.conwaylife.com/wiki/File:Glider.png" class="image" title="Glider image"><img alt="Glider image" src="https://www.conwaylife.com/w/images/7/79/Glider.png" decoding="async" width="81" height="81" /></a> </noscript></canvas></div>
 
 
