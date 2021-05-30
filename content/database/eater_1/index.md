@@ -31,7 +31,7 @@ active: false
 #C [[ LABEL 2 -3 32 "Eater 1" ]]
 </code></div></div><canvas width="760" height="560" style="margin-left:1px; position: relative; z-index: 1031;"><noscript> <a href="https://www.conwaylife.com/wiki/File:Glider.png" class="image" title="Glider image"><img alt="Glider image" src="https://www.conwaylife.com/w/images/7/79/Glider.png" decoding="async" width="81" height="81" /></a> </noscript></canvas></div>
 
-<div class="rle"><div class="codebox"><div style="display:none; position: relative; z-index: 1031;">x = 0, y = 0, rule = B3/S23
+<div class="rle"><div class="codebox"><div style="display:none; position: relative; z-index: 1031;"><code>x = 0, y = 0, rule = B3/S23
 2o$2o!
 #C [[ THEME 6 GRID GRIDMAJOR 0 ZOOM 32.0 ]]
 #C [[ COLOR ARROW Purple ARROWSIZE 3 0.1 ARROWALPHA 0.70 ]]
