@@ -6,7 +6,7 @@ active: false
 
 The Gemini expedition attempts to analyse self-replicating patterns in the GoL and break them down to their building blocks. We hope that this procedure can yield fundamental insights on the nature of engineering and self-replicating machines.
 
-![HMS Beagle](https://galapagos.netlify.app/gemini/beagle-ones-zeros.PNG)
+![HMS Beagle](https://galapagos.netlify.app/gemini/beagle-ones-zeros-dna.PNG)
 
 :city_sunrise:  :arrow_right: :sailboat: :arrow_right: :tent:  :arrow_right: :boat: :arrow_right: :japanese_castle: :arrow_right: :boat: :arrow_right: :tokyo_tower: :arrow_right: :boat: :arrow_right: :city_sunrise:
 
