@@ -1,5 +1,5 @@
 ---
-title: Gemini Expedition
+title: :sailboat: Gemini Expedition
 date: 2021-05-29
 active: false
 ---
@@ -8,7 +8,7 @@ The Gemini expedition attempts to analyse self-replicating patterns in the GoL a
 
 ![HMS Beagle](https://galapagos.netlify.app/gemini/beagle-ones-zeros-dna.PNG)
 
-:city_sunrise:  :arrow_right: :sailboat: :arrow_right: :tent:  :arrow_right: :boat: :arrow_right: :japanese_castle: :arrow_right: :boat: :arrow_right: :tokyo_tower: :arrow_right: :boat: :arrow_right: :city_sunrise:
+:city_sunrise:  :arrow_right: :sailboat: :arrow_right: :tent:  :arrow_right: :boat: :arrow_right: :tokyo_tower:  :arrow_right: :boat: :arrow_right: :city_sunrise:
 
 (30.05.2021) The first stop :round_pushpin: of the expedition is the [0E0P metacell](https://www.conwaylife.com/wiki/0E0P_metacell)
 
