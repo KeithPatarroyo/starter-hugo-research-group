@@ -8,7 +8,7 @@ The Gemini expedition attempts to analyse self-replicating patterns in the GoL a
 
 ![HMS Beagle](https://galapagos.netlify.app/gemini/beagle-ones-zeros.PNG)
 
-:boat: :city_sunrise: :boat: :japanese_castle: :boat: :tokyo_tower: :boat: :city_sunrise:
+:boat: :arrow_right: :city_sunrise: :arrow_right: :boat: :arrow_right: :japanese_castle: :arrow_right: :boat: :arrow_right: :tokyo_tower: :arrow_right: :boat: :arrow_right: :city_sunrise:
 
 (30.05.2021) The first stop :round_pushpin: of the expedition is the [0E0P metacell](https://www.conwaylife.com/wiki/0E0P_metacell)
 
