@@ -1,5 +1,5 @@
 ---
-title:  ⛵️🧬  Gemini Expedition 
+title:  ⛵️👨‍💻 Gemini Expedition 
 date: 2021-05-29
 active: false
 ---
