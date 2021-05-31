@@ -1,5 +1,5 @@
 ---
-title: :sailboat: Gemini Expedition
+title:  Gemini Expedition
 date: 2021-05-29
 active: false
 ---
@@ -26,7 +26,7 @@ These are some of the questions we attempt to solve with the expedition:
 - How can we deal with pieces that are assembled or destroyed while the machine is running ?
 - What about self-replicating software ?
 
-Can this expedition help us build molecular machines:
+Final words: Check out this molecular machines !!!
 
 {{< youtube 6j8CV3droDw >}}
 
