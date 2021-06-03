@@ -11,6 +11,10 @@ In this announcement  we will officially kick off the main two endeavors of the 
 2. The Gemini Expedition
 <!--more-->
 
+In the following post we address a little bit the history of the project and present a brief overview of the main ongoing endeavors. 
+
+---
+
 ## The Fundamental Observation
 
 ## Principal Ingredients
