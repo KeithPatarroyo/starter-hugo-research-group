@@ -13,8 +13,10 @@ Watch the announcement video:
 
 {{< youtube AW2ztKPXB9s >}}
 
-# Motivation
+## The Fundamental Observation
 
-# Database Construction
+## Database Construction
 
-# Gemini Expedition
+## Gemini Expedition
+
+## Objectives and Deliverables
