@@ -13,6 +13,8 @@ In this announcement  we will officially kick off the main two endeavors of the 
 
 ## The Fundamental Observation
 
+## Principal Ingredients
+
 ## Database Construction
 
 ## Gemini Expedition
