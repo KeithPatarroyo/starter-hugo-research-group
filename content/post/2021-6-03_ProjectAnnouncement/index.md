@@ -3,6 +3,8 @@ title: Gálapagos Project Announcement
 date: 2021-06-03
 ---
 
+![HMS Beagle](https://galapagos.netlify.app/post/2021-6-03_ProjectAnnouncement/Announcement-Background.PNG)
+
 In this announcement  we will officially kick off the main two endeavors of the project:
 
 1. The GoL combinatorial database construction
