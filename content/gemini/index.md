@@ -31,6 +31,7 @@ These are some of the questions we attempt to solve with the expedition:
 - Is the combinatorial evolution framework capable of describing these devices ?
 - How can we deal with pieces that are assembled or destroyed while the machine is running ?
 - What about self-replicating software ?
+- Is constructor theory relevant to describe the construction of these patterns ?
 
 Final words: Check out this self-replicating molecular machine !!!
 
