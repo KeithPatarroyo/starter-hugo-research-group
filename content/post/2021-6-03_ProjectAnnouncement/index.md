@@ -3,7 +3,7 @@ title: Gálapagos Project Announcement
 date: 2021-07-06
 ---
 
-{{< youtube AW2ztKPXB9s >}}
+{{< youtube FPNmNUJFslo >}}
 
 In this announcement  we will officially kick off the main two endeavors of the project:
 
