@@ -1,6 +1,6 @@
 ---
 title: Gálapagos Project Announcement
-date: 2021-06-03
+date: 2021-07-06
 ---
 
 {{< youtube AW2ztKPXB9s >}}
