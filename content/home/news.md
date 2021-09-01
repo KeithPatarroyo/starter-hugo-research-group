@@ -19,7 +19,7 @@ content:
   order: desc
   page_type: post
 design:
-  view: 2
+  view: 1
   columns: "1"
   background:
     color: '#f0f7fa'
