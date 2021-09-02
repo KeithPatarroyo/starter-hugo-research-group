@@ -43,6 +43,7 @@ disableAliases = true  # Disable aliases when `redirects` is added to the `outpu
   tags = "/tag/:slug/"
   categories = "/category/:slug/"
   publication_types = "/publication-type/:slug/"
+  material_types = "/material-type/:slug/"
 
 [outputs]
   home = [ "HTML", "RSS", "JSON", "WebAppManifest", "headers", "redirects" ]
@@ -71,6 +72,7 @@ disableAliases = true  # Disable aliases when `redirects` is added to the `outpu
   category = "categories"
   author = "authors"
   publication_type = "publication_types"
+  material_type = "material_types"
 
 # Related content.
 [related]
