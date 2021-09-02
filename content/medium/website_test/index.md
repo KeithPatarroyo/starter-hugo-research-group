@@ -1,8 +1,8 @@
 ---
-title: "Defect Movement in Lattice Rewriting Systems"
+title: "Technology or Monetary System: What is the key to progress? — Part II: The case for the Monetary System"
 authors:
 - admin
-date: "2021-01-07T00:00:00Z"
+date: "2021-02-07T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -18,7 +18,8 @@ publication_types: ["0"]
 publication: ""
 publication_short: ""
 
-abstract: The movement of defects plays a crucial role in macroscopic elasticity, in this post we describe a possible path for obtaining large scale elastic phenomena from microscopic rules. For this we investigate rewrite rules on Bravais lattices that move disclination and dislocation defects.This systematic study leads naturally to a discrete description of geometric concepts inside a Bravais Graph, different concepts like curvature, torsion, parallel transport, charts and atlas can all be defined without referencing an embedding space. We hope that this treatment of a “lattice gas of defects” can be used as a possible foundation of elasticity and possibly model complicated phenomena like crack formation or tearing of materials. Finally this framework provides a connection between a mesoscopic description of matter and the spacetime Wolfram model, this might become useful to search for topological defects or quasi-particles inside Wolfram Models.
+abstract: In the previous [post](https://keithypts.medium.com/technology-or-monetary-system-what-is-the-key-to-progress-part-i-the-case-for-technology-61a6c6905638), I argued that technology has historically exploited layers of smaller and smaller phenomena. During this process, fundamental discoveries in the nature of matter, energy, and information have allowed for the construction of very productive economic niches. These niches are not uniformly distributed geographically, regardless of the monetary system. This implies that having a diverse pool of available technologies is predictive of growth at the country level. Of course, this analysis is incomplete because we assumed all the time that we are immersed in a functioning monetary system. In this post, I’ll argue the opposing view and argue why having a functioning monetary system is the key to the growth of modern society. Moreover, I’ll claim that the discovery of money is an evolutionary transition of such importance that it may be compared with early transitions in the very first life to arise on earth or the emergence of human intelligence compared to other animals.
+
 
 # Summary. An optional shortened abstract.
 summary: 
@@ -29,14 +30,14 @@ featured: false
 
 links:
 - name: 'Web Version'
-  url: https://community.wolfram.com/groups/-/m/t/2164049
+  url: https://keithypts.medium.com/technology-or-monetary-system-what-is-the-key-to-progress-8d3ad19202d5
 url_pdf: ''
-url_code: 'https://github.com/taliesinb/LatticeRewriting' 
+url_code: '' 
 url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: 'https://community.wolfram.com/groups?p_auth=Ru7JGi4K&p_p_id=19&p_p_lifecycle=1&p_p_state=exclusive&p_p_mode=view&p_p_col_id=column-1&p_p_col_count=6&_19_struts_action=%2Fmessage_boards%2Fget_message_attachment&_19_messageId=2164049&_19_attachment=LatticeRewritingRules.nb'
+url_source: ''
 url_video: ''
 
 # Featured image
@@ -52,7 +53,7 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- internal-project
+- externalities
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
