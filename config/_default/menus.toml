@@ -9,8 +9,8 @@
 #  weight = 10
 
 [[main]]
-  name = "News"
-  url = "post"
+  name = "Announcement"
+  url = "post/2021-6-03_projectannouncement/"
   weight = 20
 
 [[main]]
@@ -34,8 +34,8 @@
   weight = 40
 
 [[main]]
-  name = "Publications"
-  url = ""
+  name = "Materials"
+  url = "medium"
   weight = 50
 
 [[main]]
